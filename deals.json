@@ -1,5 +1,5 @@
 {
-"updatedAt": "2026/11/02 15:40",
+"updatedAt": "2026/11/03 06:55",
 "deals": [
 {
 "brand": "漢堡王",
@@ -158,7 +158,8 @@
 "src": "https://dealy.tw/shop/kfcclub.com.tw",
 "title": "咔啦雞腿堡＋原味蛋撻",
 "id": "kfc-50475",
-"checked": "2026-10-23"
+"checked": "2026-10-23",
+"status": "pending"
 },
 {
 "brand": "肯德基",
@@ -177,7 +178,8 @@
 "title": "咔啦脆雞分享桶＋原味蛋撻 6 入",
 "id": "kfc-50476",
 "checked": "2026-10-23",
-"note": "限時限店，輸入代碼沒出現代表該門市或時段不適用"
+"note": "限時限店，輸入代碼沒出現代表該門市或時段不適用",
+"status": "pending"
 },
 {
 "brand": "金子半之助",
@@ -421,42 +423,6 @@
 "src": "https://cpok.tw/49105",
 "title": "摩斯鱈魚堡＋雞塊 4 塊＋月亮薯條＋大杯冰紅茶",
 "id": "mos-seat-189"
-},
-{
-"brand": "摩斯漢堡",
-"cat": "漢堡速食",
-"ends": "2026-11-02",
-"how": "週五至週一，門市點指定套餐",
-"mapq": "摩斯漢堡",
-"meals": [
-"早餐",
-"午餐",
-"晚餐"
-],
-"note": "74 元為最低一套的價格，每週品項不同",
-"pct": 0.225,
-"people": 1,
-"price": 74,
-"src": "https://supertaste.tvbs.com.tw/food/361661",
-"title": "歡聚週週省：指定套餐第一套 9 折、第二套 65 折",
-"id": "mos-weekly"
-},
-{
-"brand": "Q Burger",
-"cat": "早餐店",
-"how": "平日 9:30 前到店點餐",
-"mapq": "Q Burger",
-"meals": [
-"早餐"
-],
-"note": "活動仍在進行，門市可能調整，請先確認",
-"people": 1,
-"price": 50,
-"src": "https://baliman.tw/blog/post/q-burger-menu",
-"title": "HAPPY 50：主餐＋紅茶 50 元",
-"id": "qb-happy50",
-"status": "pending",
-"checked": "2026-10-25"
 },
 {
 "brand": "三商炸雞",
@@ -1022,25 +988,6 @@
 "id": "mcd-star69"
 },
 {
-"brand": "Mister Donut",
-"cat": "甜點",
-"meals": [
-"晚餐",
-"宵夜"
-],
-"title": "閉店前一小時甜甜圈買 2 送 1",
-"gift": "買 2 送 1",
-"pct": 0.33,
-"people": 3,
-"how": "直營門市閉店前 1 小時，看到「珍食計畫買2送1」標示就能用",
-"note": "外送和 7-11 櫃位不適用，不是每天都有，請先確認",
-"src": "https://www.nownews.com/news/6883525",
-"mapq": "Mister Donut",
-"id": "misterdonut-zhenshi",
-"status": "pending",
-"checked": "2026-10-25"
-},
-{
 "brand": "哈根達斯",
 "cat": "冰品",
 "meals": [
@@ -1099,43 +1046,6 @@
 "id": "coco-fp-bogo"
 },
 {
-"brand": "50嵐",
-"cat": "飲料",
-"meals": [
-"午餐",
-"晚餐"
-],
-"title": "非純茶飲料買 5 送 1",
-"gift": "買 5 送 1",
-"pct": 0.167,
-"people": 6,
-"how": "門市點餐",
-"note": "依各門市規定",
-"src": "https://www.beauty321.com/post/73497",
-"mapq": "50嵐",
-"id": "50lan-5plus1",
-"status": "pending",
-"checked": "2026-10-25"
-},
-{
-"brand": "這一小鍋",
-"cat": "火鍋",
-"meals": [
-"午餐",
-"晚餐"
-],
-"title": "身分證字號有 1 或 0 送梅花豬肉；兩個都有主餐 8 折",
-"gift": "送梅花豬",
-"how": "結帳出示身分證",
-"note": "活動結束日未公布，請先確認",
-"src": "https://www.orissic.com/news/event/",
-"people": 1,
-"mapq": "這一小鍋",
-"id": "orissic-id",
-"status": "pending",
-"checked": "2026-10-25"
-},
-{
 "brand": "藏壽司",
 "cat": "壽司",
 "meals": [
@@ -1150,7 +1060,8 @@
 "people": 1,
 "mapq": "藏壽司",
 "id": "kura-salmon40",
-"checked": "2026-10-23"
+"checked": "2026-10-23",
+"status": "pending"
 },
 {
 "brand": "藏壽司",
@@ -1167,68 +1078,8 @@
 "people": 1,
 "mapq": "藏壽司",
 "id": "kura-shrimp60",
-"checked": "2026-10-23"
-},
-{
-"brand": "foodpanda",
-"cat": "滷味",
-"meals": [
-"晚餐",
-"宵夜"
-],
-"title": "滷味外帶自取 7 折（最高折 30 元，可用 3 次）",
-"gift": "自取 7 折",
-"pct": 0.3,
-"how": "在 foodpanda 點附近滷味，選外帶自取並輸入代碼",
-"code": "自取感謝你",
-"note": "適用對象以 APP 顯示為準",
-"src": "https://today.line.me/tw/v3/article/wJvVxal",
-"mapq": "滷味",
-"people": 1,
-"id": "fp-pickup-luwei",
-"status": "pending",
-"checked": "2026-10-25"
-},
-{
-"brand": "全家",
-"cat": "超商",
-"meals": [
-"午餐",
-"晚餐",
-"宵夜"
-],
-"title": "uno 義大利麵＋指定無咖啡因飲品",
-"price": 99,
-"orig": 129,
-"how": "門市直接購買",
-"note": "鮮蝦、卡波納拉、拿坡里燻腸口味，部分組合 109 元",
-"src": "https://www.chinatimes.com/realtimenews/20261019001734-260405",
-"mapq": "全家便利商店",
-"people": 1,
-"id": "fm-uno-pasta",
-"status": "pending",
-"checked": "2026-10-25"
-},
-{
-"brand": "肯德基",
-"cat": "甜點",
-"meals": [
-"午餐",
-"晚餐",
-"宵夜"
-],
-"title": "原味蛋撻 2 入",
-"price": 66,
-"orig": 96,
-"people": 2,
-"how": "肯德基 APP 或點餐報代碼",
-"code": "50526",
-"note": "結束日未公布，請先確認",
-"src": "https://applealmond.com/posts/315897",
-"mapq": "肯德基",
-"id": "kfc-50526",
-"status": "pending",
-"checked": "2026-10-25"
+"checked": "2026-10-23",
+"status": "pending"
 },
 {
 "brand": "肯德基",
@@ -1252,23 +1103,6 @@
 "brand": "全家",
 "cat": "冰品",
 "meals": [
-"晚餐"
-],
-"title": "霜淇淋晚間特價",
-"price": 29,
-"how": "每天 17:00–20:59 到門市購買",
-"note": "結束日未公布",
-"src": "https://www.marieclaire.com.tw/lifestyle/taste/96393",
-"mapq": "全家便利商店",
-"people": 1,
-"id": "fm-softserve-night",
-"status": "pending",
-"checked": "2026-10-25"
-},
-{
-"brand": "全家",
-"cat": "冰品",
-"meals": [
 "午餐",
 "晚餐",
 "宵夜"
@@ -1283,46 +1117,6 @@
 "people": 1,
 "id": "fm-witchfinger",
 "hot": true
-},
-{
-"id": "ph-tart6plus6",
-"brand": "必勝客",
-"cat": "甜點",
-"meals": [
-"午餐",
-"晚餐",
-"宵夜"
-],
-"title": "經典原味蛋撻 6 顆，送紅豆奶皇蛋撻 6 顆",
-"price": 294,
-"people": 4,
-"gift": "買 6 送 6",
-"how": "門市或官網、PK APP 點餐",
-"ends": "2026-11-02",
-"note": "供應數量與門市依必勝客公告",
-"src": "https://supertaste.tvbs.com.tw/pack/362009",
-"mapq": "必勝客"
-},
-{
-"id": "ph-halloween-pizza",
-"brand": "必勝客",
-"cat": "披薩",
-"meals": [
-"午餐",
-"晚餐",
-"宵夜"
-],
-"title": "萬聖節香辣麻奶火山濃起司漢堡排比薩",
-"price": 628,
-"people": 3,
-"pct": 0.4,
-"gift": "6 折",
-"how": "官網或 PK APP 點餐",
-"ends": "2026-11-02",
-"note": "限時 6 折，628 元為折後價",
-"src": "https://supertaste.tvbs.com.tw/pack/362009",
-"mapq": "必勝客",
-"icon": "pizza"
 },
 {
 "id": "fm-letstea-2nd",
@@ -1376,7 +1170,9 @@
 "note": "賞味期限前 8 小時起打折，品項和數量看門市；部分支付優惠不能併用",
 "src": "https://www.money101.com.tw/blog/%E8%B6%85%E5%95%86-%E9%AE%AE%E9%A3%9F-%E7%89%B9%E5%83%B9%E6%99%82%E6%AE%B5",
 "mapq": "7-11",
-"icon": "bento"
+"icon": "bento",
+"status": "pending",
+"checked": "2026-10-22"
 },
 {
 "id": "fm-friendly",
@@ -1395,7 +1191,9 @@
 "note": "效期前 7 小時起打折，常見 10:00、17:00 後出現；品項看門市",
 "src": "https://www.money101.com.tw/blog/%E8%B6%85%E5%95%86-%E9%AE%AE%E9%A3%9F-%E7%89%B9%E5%83%B9%E6%99%82%E6%AE%B5",
 "mapq": "全家",
-"icon": "bento"
+"icon": "bento",
+"status": "pending",
+"checked": "2026-10-22"
 },
 {
 "id": "bd-mcd",
@@ -1472,7 +1270,8 @@
 "src": "https://www.pkcard.com.tw/gift.php",
 "mapq": "必勝客",
 "bday": true,
-"people": 1
+"people": 1,
+"checked": "2026-11-03"
 },
 {
 "id": "bd-dicos",
@@ -1821,61 +1620,6 @@
 "hot": true
 },
 {
-"id": "kfc-darktart-duo",
-"brand": "肯德基",
-"cat": "甜點",
-"meals": [
-"午餐",
-"晚餐",
-"宵夜"
-],
-"title": "蛋撻雙口味禮盒：原味 3 顆＋闇黑之吻蛋撻 3 顆",
-"price": 266,
-"people": 3,
-"how": "門市點餐",
-"ends": "2026-11-02",
-"src": "https://supertaste.tvbs.com.tw/pack/362071",
-"mapq": "肯德基"
-},
-{
-"id": "dicos-face-qq",
-"brand": "德克士",
-"cat": "炸雞",
-"meals": [
-"午餐",
-"晚餐",
-"宵夜"
-],
-"title": "黑金系列任一品項，對店員扮鬼臉送紫金 QQ 球",
-"gift": "送 QQ 球",
-"how": "門市點黑金系列，現場扮鬼臉",
-"ends": "2026-11-02",
-"note": "黑金脆皮手槍腿 165 元、黑金咔滋雞腿堡 149 元；球場門市不適用",
-"src": "https://supertaste.tvbs.com.tw/pack/362071",
-"mapq": "德克士",
-"icon": "drumstick",
-"people": 1
-},
-{
-"id": "ph-taro-volcano",
-"brand": "必勝客",
-"cat": "披薩",
-"meals": [
-"午餐",
-"晚餐",
-"宵夜"
-],
-"title": "芋霸不能火山比薩（甜比薩）",
-"price": 249,
-"orig": 299,
-"how": "門市、官網或 PK 雙饗卡 APP",
-"ends": "2026-11-02",
-"note": "數量有限",
-"src": "https://woman.udn.com/woman/story/123162/9813234",
-"mapq": "必勝客",
-"people": 1
-},
-{
 "id": "fm-taro-sweets",
 "brand": "全家",
 "cat": "甜點",
@@ -1894,7 +1638,8 @@
 "hot": true,
 "people": 1,
 "added": "2026-10-22",
-"checked": "2026-10-22"
+"checked": "2026-10-22",
+"status": "pending"
 },
 {
 "id": "zhenzhudan-buckwheat",
@@ -1937,27 +1682,8 @@
 "hot": true,
 "people": 1,
 "added": "2026-10-22",
-"checked": "2026-10-22"
-},
-{
-"id": "qb-halloween",
-"brand": "Q Burger",
-"cat": "早餐店",
-"meals": [
-"早餐",
-"午餐"
-],
-"title": "萬聖節可朗芙、造型吐司和蜂蜜蛋餅新品",
-"price": 50,
-"how": "門市點餐",
-"note": "木乃伊、女巫吐司 50 元，害羞幽靈可朗芙 99 元，蜂蜜火腿蛋餅 60 元；週五到週日打卡送小玉米杯，每店每日限 20 份",
-"src": "https://supertaste.tvbs.com.tw/food/361962",
-"mapq": "Q Burger",
-"icon": "toast",
-"hot": true,
-"people": 1,
-"added": "2026-10-23",
-"checked": "2026-10-23"
+"checked": "2026-10-22",
+"status": "pending"
 },
 {
 "id": "tkk-monsters",
@@ -2000,7 +1726,8 @@
 "hot": true,
 "people": 1,
 "added": "2026-10-23",
-"checked": "2026-10-23"
+"checked": "2026-10-23",
+"status": "pending"
 },
 {
 "id": "hilife-tsujiri",
@@ -3143,393 +2870,106 @@
 "buyName": "momo",
 "added": "2026-11-02",
 "checked": "2026-11-02"
+},
+{
+"id": "711-softserve-milk",
+"brand": "7-11",
+"cat": "冰品",
+"meals": [
+"午餐",
+"晚餐",
+"宵夜"
+],
+"title": "雪淋霜奶霜飲（現擠霜淇淋加冰牛奶）",
+"price": 59,
+"orig": 69,
+"how": "門市點購",
+"ends": "2026-12-08",
+"note": "限有霜淇淋機的門市",
+"src": "https://travel.udn.com/travel/story/7186/9837076",
+"mapq": "7-11",
+"icon": "softserve",
+"hot": true,
+"people": 1,
+"added": "2026-11-03",
+"checked": "2026-11-03"
 }
 ],
 "removed": [
 {
-"brand": "炸雞大獅",
-"title": "指定商品第二件 8 折",
+"brand": "摩斯漢堡",
+"title": "歡聚週週省：指定套餐第一套 9 折、第二套 65 折",
+"why": "已過期"
+},
+{
+"brand": "Q Burger",
+"title": "HAPPY 50：主餐＋紅茶 50 元",
+"why": "查不到最新消息"
+},
+{
+"brand": "Mister Donut",
+"title": "閉店前一小時甜甜圈買 2 送 1",
+"why": "查不到最新消息"
+},
+{
+"brand": "50嵐",
+"title": "非純茶飲料買 5 送 1",
+"why": "查不到最新消息"
+},
+{
+"brand": "這一小鍋",
+"title": "身分證字號有 1 或 0 送梅花豬肉；兩個都有主餐 8 折",
+"why": "查不到最新消息"
+},
+{
+"brand": "foodpanda",
+"title": "滷味外帶自取 7 折（最高折 30 元，可用 3 次）",
 "why": "查不到最新消息"
 },
 {
 "brand": "全家",
-"title": "燒肉烤米堡（APP 領 69 折券）",
-"why": "已過期"
-},
-{
-"brand": "foodpanda",
-"title": "自取滿 100 元 7 折（最高折 30 元，可用 3 次）",
-"why": "查不到最新消息"
-},
-{
-"brand": "foodpanda",
-"title": "指定餐廳滿 360 元折 110 元（滿 260 折 80）",
-"why": "已過期"
-},
-{
-"brand": "肯德基",
-"title": "原味脆雞堡＋原味蛋撻＋小薯＋冰無糖綠茶",
-"why": "已過期"
-},
-{
-"brand": "肯德基",
-"title": "咔啦雞腿堡＋4 塊上校雞塊＋原味蛋撻＋冰無糖綠茶",
-"why": "已過期"
-},
-{
-"brand": "肯德基",
-"title": "$38 飲品 5 選 2",
-"why": "已過期"
-},
-{
-"brand": "肯德基",
-"title": "咔啦脆雞分享桶",
+"title": "uno 義大利麵＋指定無咖啡因飲品",
 "why": "查不到最新消息"
 },
 {
 "brand": "肯德基",
-"title": "咔啦雞腿堡＋4 塊雞塊＋可樂",
+"title": "原味蛋撻 2 入",
 "why": "查不到最新消息"
 },
 {
-"brand": "麥當勞",
-"title": "歡樂送單筆滿 300 元送中薯",
-"why": "已過期"
-},
-{
-"brand": "麥當勞",
-"title": "得來速加 10 元多一份小薯",
+"brand": "全家",
+"title": "霜淇淋晚間特價",
 "why": "查不到最新消息"
 },
 {
-"brand": "麥當勞",
-"title": "得來速加 10 元多一份薯餅",
-"why": "查不到最新消息"
-},
-{
-"brand": "摩斯漢堡",
-"title": "萬聖節：蒟蒻飲品任選兩杯",
-"why": "已過期"
-},
-{
-"brand": "品川蘭",
-"title": "蘭·雪花牛肉麵買一送一",
-"why": "已過期"
-},
-{
-"brand": "三商巧福",
-"title": "牛三寶牛肉麵套餐（含小菜、中杯飲料）",
-"why": "已過期"
-},
-{
-"brand": "三商巧福",
-"title": "雪花牛肉乾拌麵套餐，加 1 元多一碗紅燒排骨麵",
-"why": "已過期"
-},
-{
-"brand": "Uber Eats",
-"title": "Uber One 會員滿 450 元免外送費和服務費（4 次）",
-"why": "已過期"
-},
-{
-"brand": "Uber Eats",
-"title": "Uber One 會員外帶自取滿 179 元 7 折（最高折 60 元，限 5 次）",
-"why": "已過期"
-},
-{
-"brand": "Uber Eats",
-"title": "彰化縣限定：外送滿 149 元 6 折（最高折 60 元）",
-"why": "已過期"
-},
-{
-"brand": "Uber Eats",
-"title": "雲林縣限定：外送滿 149 元 6 折（最高折 60 元）",
-"why": "已過期"
-},
-{
-"brand": "Uber Eats",
-"title": "基隆市限定：外送滿 149 元 75 折（最高折 40 元）",
-"why": "已過期"
-},
-{
-"brand": "Uber Eats",
-"title": "苗栗縣限定：外送滿 149 元 6 折（最高折 60 元）",
-"why": "已過期"
-},
-{
-"brand": "Uber Eats",
-"title": "屏東縣限定：外送滿 149 元 6 折（最高折 60 元）",
-"why": "已過期"
-},
-{
-"brand": "Uber Eats",
-"title": "宜蘭縣限定：外送滿 149 元 6 折（最高折 60 元）",
-"why": "已過期"
-},
-{
-"brand": "Uber Eats",
-"title": "南投縣限定：外送滿 149 元 6 折（最高折 60 元）",
-"why": "已過期"
-},
-{
-"brand": "Uber Eats",
-"title": "嘉義市、嘉義縣限定：外送滿 149 元 6 折（最高折 60 元）",
-"why": "已過期"
-},
-{
-"brand": "Uber Eats",
-"title": "台南市限定：外送滿 149 元 5 折（最高折 80 元）",
-"why": "已過期"
-},
-{
-"brand": "拿坡里",
-"title": "大披薩",
-"why": "已過期"
-},
-{
-"brand": "拿坡里",
-"title": "炸雞或烤雞 6 塊",
+"brand": "必勝客",
+"title": "經典原味蛋撻 6 顆，送紅豆奶皇蛋撻 6 顆",
 "why": "已過期"
 },
 {
 "brand": "必勝客",
-"title": "大披薩 10 種口味任選",
-"why": "已過期"
-},
-{
-"brand": "TEA TOP 第一味",
-"title": "奶茶第二杯半價（北部 2 杯）",
-"why": "已過期"
-},
-{
-"brand": "成真咖啡",
-"title": "外帶咖啡飲品買一送一（190 元以下）",
-"why": "已過期"
-},
-{
-"brand": "早到晚到",
-"title": "紅茶、冷泡茶或小時候奶茶同品項買一送一",
-"why": "已過期"
-},
-{
-"brand": "茶詠春",
-"title": "單筆滿 200 元打 85 折",
-"why": "已過期"
-},
-{
-"brand": "晨間廚房",
-"title": "芋泥炸蛋餅 8 折",
-"why": "已過期"
-},
-{
-"brand": "泰滾mini",
-"title": "免收鍋底費",
-"why": "已過期"
-},
-{
-"brand": "賴山嶼麻辣燙",
-"title": "店內消費滿 300 元送氣泡飲",
-"why": "已過期"
-},
-{
-"brand": "壽司郎",
-"title": "野生南方黑鮪魚中腹",
-"why": "已過期"
-},
-{
-"brand": "Uber Eats",
-"title": "Uber One 會員滷味外帶自取 7 折（最高折 60 元，可用 5 次）",
-"why": "已過期"
-},
-{
-"brand": "Krispy Kreme",
-"title": "萬聖節限定甜甜圈 6 入",
-"why": "已過期"
-},
-{
-"brand": "Krispy Kreme",
-"title": "萬聖節限定甜甜圈 12 入",
-"why": "已過期"
-},
-{
-"brand": "頂呱呱",
-"title": "呱呱包雙入重量餐（呱呱包 2＋青花椒雞＋地瓜薯條＋甜甜包＋中可樂）",
-"why": "已過期"
-},
-{
-"brand": "麥當勞",
-"title": "APP 單筆滿 200 元送中薯",
-"why": "已過期"
-},
-{
-"brand": "麥當勞",
-"title": "中杯可樂或雪碧買一送一",
-"why": "已過期"
-},
-{
-"brand": "拿坡里",
-"title": "經典原味蛋塔 6 入",
-"why": "已過期"
-},
-{
-"brand": "7-11",
-"title": "CITY CAFE 特大杯拿鐵 10 杯",
-"why": "已過期"
-},
-{
-"brand": "7-11",
-"title": "CITY CAFE 特大杯美式 10 杯",
-"why": "已過期"
-},
-{
-"brand": "7-11",
-"title": "CITY CAFE 大杯濃萃美式 17 杯",
-"why": "已過期"
-},
-{
-"brand": "7-11",
-"title": "CITY CAFE 大杯濃萃拿鐵 17 杯",
-"why": "已過期"
-},
-{
-"brand": "萊爾富",
-"title": "Hi café 大杯特濃美式或拿鐵",
-"why": "已過期"
-},
-{
-"brand": "CoCo都可",
-"title": "省錢福利品：粉角奶茶 39 元、茉莉綠茶 29 元",
-"why": "已過期"
-},
-{
-"brand": "TEATOP第一味",
-"title": "奶茶第二杯半價",
-"why": "已過期"
-},
-{
-"brand": "繼光香香雞",
-"title": "沙嗲香脆組：沙嗲無骨腿丁＋印尼蝦餅",
-"why": "已過期"
-},
-{
-"brand": "繼光香香雞",
-"title": "沙嗲鮮香組：沙嗲無骨腿丁＋九層塔花枝丸",
-"why": "已過期"
-},
-{
-"brand": "摩斯漢堡",
-"title": "蒟蒻飲品任選 2 杯",
-"why": "已過期"
-},
-{
-"brand": "7-11",
-"title": "雷神巧克力聯名：脆脆甜甜圈、脆脆麵包、白雷神泡芙，第 2 件省 10 元",
-"why": "已過期"
-},
-{
-"brand": "福勝亭",
-"title": "開運豬排定食（20 週年價）",
-"why": "已過期"
-},
-{
-"brand": "羽葉麻辣火鍋",
-"title": "麻辣火鍋送 A5 和牛 2 份＋哈根達斯雪糕",
-"why": "已過期"
-},
-{
-"brand": "小川鍋物",
-"title": "點任一鍋物，150 元加購海鮮三品",
-"why": "已過期"
-},
-{
-"brand": "這一鍋",
-"title": "火鍋 4 人套餐 5 折（萬聖節變裝）",
+"title": "萬聖節香辣麻奶火山濃起司漢堡排比薩",
 "why": "已過期"
 },
 {
 "brand": "肯德基",
-"title": "經典澎派桶：咔啦脆雞 6 塊＋原味蛋撻 6 入",
+"title": "蛋撻雙口味禮盒：原味 3 顆＋闇黑之吻蛋撻 3 顆",
 "why": "已過期"
 },
 {
-"brand": "肯德基",
-"title": "無骨澎派桶：無骨雞腿霸 6 塊＋原味蛋撻 6 入＋沾醬",
+"brand": "德克士",
+"title": "黑金系列任一品項，對店員扮鬼臉送紫金 QQ 球",
 "why": "已過期"
 },
 {
-"brand": "foodpanda",
-"title": "滷味外帶自取滿 100 元 5 折（最高折 60 元）",
+"brand": "必勝客",
+"title": "芋霸不能火山比薩（甜比薩）",
 "why": "已過期"
 },
 {
-"brand": "Uber Eats",
-"title": "滷味外帶自取滿 149 元 5 折（10/28 週三限定）",
-"why": "已過期"
-},
-{
-"brand": "7-11",
-"title": "CITY PRIMA 精品香椰厚拿鐵或燕麥拿鐵 10 杯",
-"why": "已過期"
-},
-{
-"brand": "7-11",
-"title": "黑糖珍珠撞奶、珍珠奶茶任選 10 杯",
-"why": "已過期"
-},
-{
-"brand": "7-11",
-"title": "CITY CAFE 大杯美式 2 杯 66 元、大杯拿鐵 2 杯 77 元",
-"why": "已過期"
-},
-{
-"brand": "萊爾富",
-"title": "大杯美式、重乳拿鐵、台茶18紅玉拿鐵買 10 送 10",
-"why": "已過期"
-},
-{
-"brand": "Uber Eats",
-"title": "花蓮縣限定：外送滿 149 元 75 折（最高折 40 元）",
-"why": "已過期"
-},
-{
-"brand": "Uber Eats",
-"title": "台東縣限定：外送滿 149 元 75 折（最高折 40 元）",
-"why": "已過期"
-},
-{
-"brand": "Uber Eats",
-"title": "澎湖縣限定：外送滿 149 元 75 折（最高折 40 元）",
-"why": "已過期"
-},
-{
-"brand": "Uber Eats",
-"title": "金門縣限定：外送滿 149 元 75 折（最高折 40 元）",
-"why": "已過期"
-},
-{
-"brand": "頂呱呱",
-"title": "呱呱包午茶組（限時最低 69 折）",
-"why": "已過期"
-},
-{
-"brand": "全家",
-"title": "Let's Café 大杯特濃美式、特濃拿鐵、厚濃抹茶拿鐵同品項買 2 送 2",
-"why": "已過期"
-},
-{
-"brand": "全家",
-"title": "Fami!ce 霜淇淋不限口味 2 支",
-"why": "已過期"
-},
-{
-"brand": "7-11",
-"title": "CITY PEARL 咖啡珍珠歐蕾 10 杯",
-"why": "已過期"
-},
-{
-"brand": "7-11",
-"title": "CITY TEA 香鑽水果茶 10 杯",
-"why": "已過期"
+"brand": "Q Burger",
+"title": "萬聖節可朗芙、造型吐司和蜂蜜蛋餅新品",
+"why": "話題已退燒"
 }
 ]
 }
