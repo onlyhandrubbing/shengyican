@@ -1,5 +1,5 @@
 {
-"updatedAt": "2026/11/02 15:30",
+"updatedAt": "2026/11/02 15:40",
 "deals": [
 {
 "brand": "漢堡王",
@@ -2928,6 +2928,221 @@
 "checked": "2026-11-02",
 "buy": "https://vbtrax.com/track/clicks/4127/c627c2bc9b0428dcfe8dec23d62e9e44256d49c063b2a0f90361b00271401de3c021e7e5593c99616c?subid_1=shengyican",
 "buyName": "Uber Eats"
+},
+{
+"id": "momo-kfc-14816138",
+"brand": "肯德基",
+"cat": "飲料",
+"meals": [
+"午餐",
+"晚餐",
+"宵夜"
+],
+"title": "中杯飲料買一送一",
+"price": 38,
+"orig": 76,
+"people": 2,
+"how": "momo 買即享券，到店出示條碼兌換",
+"src": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=14816138",
+"mapq": "肯德基",
+"buy": "https://s.momoshop.com.tw/s/2m7mEEp7",
+"buyName": "momo",
+"added": "2026-11-02",
+"checked": "2026-11-02",
+"icon": "soda"
+},
+{
+"id": "momo-kfc-15285282",
+"brand": "肯德基",
+"cat": "炸雞",
+"meals": [
+"早餐",
+"午餐",
+"晚餐",
+"宵夜"
+],
+"title": "薯餅點心餐",
+"price": 39,
+"orig": 73,
+"people": 1,
+"how": "momo 買即享券，到店出示條碼兌換",
+"src": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=15285282",
+"mapq": "肯德基",
+"buy": "https://s.momoshop.com.tw/s/7irrnsdI",
+"buyName": "momo",
+"added": "2026-11-02",
+"checked": "2026-11-02",
+"icon": "fries"
+},
+{
+"id": "momo-kfc-15285283",
+"brand": "肯德基",
+"cat": "漢堡速食",
+"meals": [
+"早餐",
+"午餐",
+"晚餐"
+],
+"title": "原味脆雞堡（小）＋薯餅＋小杯飲料",
+"price": 90,
+"orig": 129,
+"people": 1,
+"how": "momo 買即享券，到店出示條碼兌換",
+"src": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=15285283",
+"mapq": "肯德基",
+"buy": "https://s.momoshop.com.tw/s/fGsRshqE",
+"buyName": "momo",
+"added": "2026-11-02",
+"checked": "2026-11-02"
+},
+{
+"id": "momo-kfc-14816154",
+"brand": "肯德基",
+"cat": "炸雞",
+"meals": [
+"午餐",
+"晚餐",
+"宵夜"
+],
+"title": "咔啦脆雞＋香酥脆薯套餐",
+"price": 99,
+"orig": 161,
+"people": 1,
+"how": "momo 買即享券，到店出示條碼兌換",
+"src": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=14816154",
+"mapq": "肯德基",
+"buy": "https://s.momoshop.com.tw/s/Tw9YJ8NF",
+"buyName": "momo",
+"added": "2026-11-02",
+"checked": "2026-11-02",
+"note": "脆雞不能指定部位"
+},
+{
+"id": "momo-kfc-14796465",
+"brand": "肯德基",
+"cat": "甜點",
+"meals": [
+"午餐",
+"晚餐",
+"宵夜"
+],
+"title": "原味蛋撻 6 入＋雙色轉轉 QQ 球",
+"price": 199,
+"orig": 353,
+"people": 2,
+"how": "momo 買即享券，到店出示條碼兌換",
+"src": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=14796465",
+"mapq": "肯德基",
+"buy": "https://s.momoshop.com.tw/s/B75EWSWO",
+"buyName": "momo",
+"added": "2026-11-02",
+"checked": "2026-11-02"
+},
+{
+"id": "momo-kfc-15711893",
+"brand": "肯德基",
+"cat": "炸雞",
+"meals": [
+"午餐",
+"晚餐",
+"宵夜"
+],
+"title": "炸雞 6 塊＋原味蛋撻 2 個套餐",
+"price": 378,
+"orig": 524,
+"people": 3,
+"how": "momo 買即享券，到店出示條碼兌換",
+"src": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=15711893",
+"mapq": "肯德基",
+"buy": "https://s.momoshop.com.tw/s/x1ZFPimx",
+"buyName": "momo",
+"added": "2026-11-02",
+"checked": "2026-11-02"
+},
+{
+"id": "momo-kfc-14816195",
+"brand": "肯德基",
+"cat": "炸雞",
+"meals": [
+"午餐",
+"晚餐",
+"宵夜"
+],
+"title": "咔啦脆雞 6 塊＋蛋撻禮盒＋香酥脆薯全家餐",
+"price": 598,
+"orig": 902,
+"people": 4,
+"how": "momo 買即享券，到店出示條碼兌換",
+"src": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=14816195",
+"mapq": "肯德基",
+"buy": "https://s.momoshop.com.tw/s/RO9K33Vp",
+"buyName": "momo",
+"added": "2026-11-02",
+"checked": "2026-11-02",
+"note": "脆雞不能指定部位"
+},
+{
+"id": "momo-kfc-14816179",
+"brand": "肯德基",
+"cat": "漢堡速食",
+"meals": [
+"午餐",
+"晚餐",
+"宵夜"
+],
+"title": "咔啦雞腿堡＋蛋撻＋脆薯絕配餐",
+"price": 165,
+"orig": 223,
+"people": 1,
+"how": "momo 買即享券，到店出示條碼兌換",
+"src": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=14816179",
+"mapq": "肯德基",
+"buy": "https://s.momoshop.com.tw/s/dFmwGUyC",
+"buyName": "momo",
+"added": "2026-11-02",
+"checked": "2026-11-02"
+},
+{
+"id": "momo-21-15205959",
+"brand": "21風味館",
+"cat": "炸雞",
+"meals": [
+"午餐",
+"晚餐",
+"宵夜"
+],
+"title": "烤雞腿＋香脆炸雞餐",
+"price": 179,
+"orig": 279,
+"people": 1,
+"how": "momo 買即享券，到店出示條碼兌換",
+"src": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=15205959",
+"mapq": "21風味館",
+"buy": "https://s.momoshop.com.tw/s/GD5fmIac",
+"buyName": "momo",
+"added": "2026-11-02",
+"checked": "2026-11-02"
+},
+{
+"id": "momo-mcd-15609164",
+"brand": "麥當勞",
+"cat": "漢堡速食",
+"meals": [
+"午餐",
+"晚餐",
+"宵夜"
+],
+"title": "大麥克＋雙層牛肉吉事堡＋6 塊雞塊＋中薯＋中可樂 2 杯",
+"price": 249,
+"orig": 344,
+"people": 2,
+"how": "momo 買即享券，到店出示條碼兌換",
+"src": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=15609164",
+"mapq": "麥當勞",
+"buy": "https://s.momoshop.com.tw/s/D0KxoB0b",
+"buyName": "momo",
+"added": "2026-11-02",
+"checked": "2026-11-02"
 }
 ],
 "removed": [
