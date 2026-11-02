@@ -1,5 +1,5 @@
 {
-"updatedAt": "2026/10/24 13:09",
+"updatedAt": "2026/11/02 15:30",
 "deals": [
 {
 "brand": "漢堡王",
@@ -71,25 +71,6 @@
 "id": "bk-p0626"
 },
 {
-"brand": "炸雞大獅",
-"cat": "雞排鹹酥雞",
-"gift": "第二件 8 折",
-"how": "會員 APP 點數活動",
-"mapq": "炸雞大獅",
-"meals": [
-"晚餐",
-"宵夜"
-],
-"pay": "LINE Pay 品牌餐廳現折 20 元；悠遊付最高 13% 回饋",
-"pct": 0.1,
-"people": 1,
-"src": "https://www.chickenmaster.com.tw/",
-"title": "指定商品第二件 8 折",
-"id": "cm-second80",
-"status": "pending",
-"checked": "2026-10-22"
-},
-{
 "brand": "全家",
 "cat": "超商",
 "ends": "2026-12-08",
@@ -120,104 +101,6 @@
 "src": "https://www.ettoday.net/news/20261012/3253137.htm",
 "title": "2 顆茶葉蛋＋小杯熱拿鐵",
 "id": "fm-egg-latte"
-},
-{
-"brand": "全家",
-"cat": "超商",
-"ends": "2026-10-27",
-"how": "全家 APP「優惠趣」領單件 69 折券，結帳出示",
-"mapq": "全家便利商店",
-"meals": [
-"早餐",
-"午餐"
-],
-"note": "搭指定飲品另有 79 元組合",
-"orig": 59,
-"people": 1,
-"price": 41,
-"src": "https://udn.com/news/story/7270/9809738",
-"title": "燒肉烤米堡（APP 領 69 折券）",
-"id": "fm-ricebun"
-},
-{
-"brand": "foodpanda",
-"cat": "雞排鹹酥雞",
-"code": "自取感謝你",
-"gift": "自取 7 折",
-"how": "foodpanda 點附近鹹酥雞或炸雞，選外帶自取並輸入代碼",
-"mapq": "鹹酥雞",
-"meals": [
-"晚餐",
-"宵夜"
-],
-"note": "適用對象以 APP 顯示為準",
-"pct": 0.3,
-"people": 1,
-"src": "https://today.line.me/tw/v3/article/wJvVxal",
-"title": "自取滿 100 元 7 折（最高折 30 元，可用 3 次）",
-"id": "fp-pickup",
-"status": "pending",
-"checked": "2026-10-22"
-},
-{
-"brand": "foodpanda",
-"cat": "外送",
-"code": "爽爽吃",
-"ends": "2026-10-31",
-"gift": "最高折 $110",
-"how": "結帳輸入優惠碼",
-"mapq": "foodpanda",
-"meals": [
-"午餐",
-"晚餐",
-"宵夜"
-],
-"note": "數量有限，兌完為止",
-"pct": 0.3,
-"people": 1,
-"src": "https://supertaste.tvbs.com.tw/food/361747",
-"title": "指定餐廳滿 360 元折 110 元（滿 260 折 80）",
-"id": "fp-shuang"
-},
-{
-"brand": "肯德基",
-"cat": "漢堡速食",
-"code": "16034",
-"how": "點餐報優惠代碼",
-"mapq": "肯德基",
-"meals": [
-"午餐",
-"晚餐"
-],
-"orig": 179,
-"people": 1,
-"price": 110,
-"src": "https://info.talk.tw/kfc-coupon/",
-"title": "原味脆雞堡＋原味蛋撻＋小薯＋冰無糖綠茶",
-"id": "kfc-16034",
-"ends": "2026-10-31",
-"checked": "2026-10-23",
-"note": "新竹湖口、台北光復、台北復興南等少數門市不適用"
-},
-{
-"brand": "肯德基",
-"cat": "漢堡速食",
-"code": "16037",
-"how": "點餐報優惠代碼",
-"mapq": "肯德基",
-"meals": [
-"午餐",
-"晚餐"
-],
-"orig": 226,
-"people": 1,
-"price": 142,
-"src": "https://info.talk.tw/kfc-coupon/",
-"title": "咔啦雞腿堡＋4 塊上校雞塊＋原味蛋撻＋冰無糖綠茶",
-"id": "kfc-16037",
-"ends": "2026-10-31",
-"checked": "2026-10-23",
-"note": "新竹湖口、台北光復、台北復興南等少數門市不適用"
 },
 {
 "brand": "肯德基",
@@ -261,23 +144,6 @@
 },
 {
 "brand": "肯德基",
-"cat": "飲料",
-"code": "26906",
-"ends": "2026-10-31",
-"how": "點餐報優惠代碼",
-"mapq": "肯德基",
-"meals": [
-"午餐",
-"晚餐"
-],
-"people": 2,
-"price": 38,
-"src": "https://xincoupon.com/kfc-promo-codes-coupons-discount-codes-deals/",
-"title": "$38 飲品 5 選 2",
-"id": "kfc-26906"
-},
-{
-"brand": "肯德基",
 "cat": "漢堡速食",
 "code": "50475",
 "how": "點餐報優惠代碼",
@@ -314,43 +180,6 @@
 "note": "限時限店，輸入代碼沒出現代表該門市或時段不適用"
 },
 {
-"brand": "肯德基",
-"cat": "炸雞",
-"code": "50483",
-"how": "點餐報優惠代碼",
-"mapq": "肯德基",
-"meals": [
-"晚餐",
-"宵夜"
-],
-"orig": 457,
-"people": 2,
-"price": 299,
-"src": "https://applealmond.com/posts/315897",
-"title": "咔啦脆雞分享桶",
-"id": "kfc-50483",
-"status": "pending",
-"checked": "2026-10-23"
-},
-{
-"brand": "肯德基",
-"cat": "漢堡速食",
-"code": "50514",
-"how": "點餐報優惠代碼",
-"mapq": "肯德基",
-"meals": [
-"午餐",
-"晚餐"
-],
-"people": 1,
-"price": 129,
-"src": "https://dealy.tw/shop/kfcclub.com.tw",
-"title": "咔啦雞腿堡＋4 塊雞塊＋可樂",
-"id": "kfc-50514",
-"status": "pending",
-"checked": "2026-10-23"
-},
-{
 "brand": "金子半之助",
 "cat": "丼飯",
 "ends": "2026-11-12",
@@ -383,61 +212,6 @@
 "src": "https://www.cashfeel.com.tw/article/%E6%9C%80%E6%96%B0-%E9%BA%A5%E7%95%B6%E5%8B%9E-%E5%84%AA%E6%83%A0-%E8%B2%B7%E4%B8%80%E9%80%81%E3%84%A7",
 "title": "歡樂送首購：中薯買一送一",
 "id": "mcd-delivery-first"
-},
-{
-"brand": "麥當勞",
-"cat": "外送",
-"ends": "2026-11-01",
-"gift": "送中薯",
-"how": "麥當勞歡樂送點餐",
-"mapq": "麥當勞",
-"meals": [
-"午餐",
-"晚餐",
-"宵夜"
-],
-"people": 1,
-"src": "https://news.tvbs.com.tw/life/2815618",
-"title": "歡樂送單筆滿 300 元送中薯",
-"id": "mcd-delivery300"
-},
-{
-"brand": "麥當勞",
-"cat": "漢堡速食",
-"how": "得來速點餐時加購",
-"mapq": "麥當勞 得來速",
-"meals": [
-"午餐",
-"晚餐",
-"宵夜"
-],
-"note": "限得來速門市，需搭配主餐",
-"orig": 37,
-"people": 1,
-"price": 10,
-"src": "https://www.cashfeel.com.tw/article/%E6%9C%80%E6%96%B0-%E9%BA%A5%E7%95%B6%E5%8B%9E-%E5%84%AA%E6%83%A0-%E8%B2%B7%E4%B8%80%E9%80%81%E3%84%A7",
-"title": "得來速加 10 元多一份小薯",
-"id": "mcd-dt-fries",
-"status": "pending",
-"checked": "2026-10-23"
-},
-{
-"brand": "麥當勞",
-"cat": "漢堡速食",
-"how": "得來速點餐時加購",
-"mapq": "麥當勞 得來速",
-"meals": [
-"早餐"
-],
-"note": "限得來速門市，需搭配主餐",
-"orig": 40,
-"people": 1,
-"price": 10,
-"src": "https://www.cashfeel.com.tw/article/%E6%9C%80%E6%96%B0-%E9%BA%A5%E7%95%B6%E5%8B%9E-%E5%84%AA%E6%83%A0-%E8%B2%B7%E4%B8%80%E9%80%81%E3%84%A7",
-"title": "得來速加 10 元多一份薯餅",
-"id": "mcd-dt-hashbrown",
-"status": "pending",
-"checked": "2026-10-23"
 },
 {
 "brand": "麥當勞",
@@ -617,22 +391,6 @@
 },
 {
 "brand": "摩斯漢堡",
-"cat": "飲料",
-"ends": "2026-10-31",
-"how": "門市點餐",
-"mapq": "摩斯漢堡",
-"meals": [
-"午餐",
-"晚餐"
-],
-"people": 2,
-"price": 52,
-"src": "https://cpok.tw/49105",
-"title": "萬聖節：蒟蒻飲品任選兩杯",
-"id": "mos-konjac"
-},
-{
-"brand": "摩斯漢堡",
 "cat": "漢堡速食",
 "ends": "2026-12-31",
 "how": "MOS Order 座位點餐",
@@ -684,24 +442,6 @@
 "id": "mos-weekly"
 },
 {
-"brand": "品川蘭",
-"cat": "麵",
-"ends": "2026-10-30",
-"gift": "買一送一",
-"how": "APP 用 2 點兌換優惠券，每人限 1 張",
-"mapq": "品川蘭",
-"meals": [
-"午餐",
-"晚餐"
-],
-"note": "10/20 前領券，限量 1500 張，領完為止",
-"pct": 0.5,
-"people": 2,
-"src": "https://info.talk.tw/buy-one-get-one/",
-"title": "蘭·雪花牛肉麵買一送一",
-"id": "pcl-beef"
-},
-{
 "brand": "Q Burger",
 "cat": "早餐店",
 "how": "平日 9:30 前到店點餐",
@@ -714,43 +454,9 @@
 "price": 50,
 "src": "https://baliman.tw/blog/post/q-burger-menu",
 "title": "HAPPY 50：主餐＋紅茶 50 元",
-"id": "qb-happy50"
-},
-{
-"brand": "三商巧福",
-"cat": "麵",
-"ends": "2026-10-31",
-"how": "三商i美食卡 APP 免費領券，內用外帶都能用",
-"mapq": "三商巧福",
-"meals": [
-"午餐",
-"晚餐"
-],
-"note": "10/20 前要先在 APP 領券",
-"orig": 290,
-"people": 1,
-"price": 189,
-"src": "https://www.ctee.com.tw/news/20261008700439-431401",
-"title": "牛三寶牛肉麵套餐（含小菜、中杯飲料）",
-"id": "sq-beef3"
-},
-{
-"brand": "三商巧福",
-"cat": "麵",
-"ends": "2026-10-31",
-"how": "三商i美食卡 APP 免費領券",
-"mapq": "三商巧福",
-"meals": [
-"午餐",
-"晚餐"
-],
-"note": "10/20 前要先在 APP 領券",
-"orig": 385,
-"people": 2,
-"price": 241,
-"src": "https://www.ctee.com.tw/news/20261008700439-431401",
-"title": "雪花牛肉乾拌麵套餐，加 1 元多一碗紅燒排骨麵",
-"id": "sq-plus1"
+"id": "qb-happy50",
+"status": "pending",
+"checked": "2026-10-25"
 },
 {
 "brand": "三商炸雞",
@@ -840,265 +546,6 @@
 "src": "https://www.ctee.com.tw/news/20261008700439-431401",
 "title": "雙人丼飯套餐：炸蝦豬排丼＋招牌牛丼＋滷豆腐＋飲料",
 "id": "sw-double"
-},
-{
-"brand": "Uber Eats",
-"cat": "外送",
-"code": "會員十月享",
-"ends": "2026-10-31",
-"gift": "免運",
-"how": "結帳輸入優惠碼",
-"mapq": "Uber Eats",
-"meals": [
-"午餐",
-"晚餐",
-"宵夜"
-],
-"people": 1,
-"src": "https://supertaste.tvbs.com.tw/food/361747",
-"title": "Uber One 會員滿 450 元免外送費和服務費（4 次）",
-"id": "ue-freeship",
-"buy": "https://vbtrax.com/track/clicks/4127/c627c2bc9b0428dcfe8dec23d62e9e44256d49c063b2a0f90361b00271401de3c021e7e5593c99616c?subid_1=shengyican",
-"buyName": "Uber Eats"
-},
-{
-"brand": "Uber Eats",
-"cat": "外送",
-"code": "十月來外帶",
-"ends": "2026-10-31",
-"gift": "自取 7 折",
-"how": "Uber Eats 選外帶自取，輸入代碼並綁信用卡付款",
-"mapq": "Uber Eats",
-"meals": [
-"午餐",
-"晚餐",
-"宵夜"
-],
-"pct": 0.3,
-"people": 1,
-"src": "https://supertaste.tvbs.com.tw/food/361747",
-"title": "Uber One 會員外帶自取滿 179 元 7 折（最高折 60 元，限 5 次）",
-"id": "ue-pickup",
-"buy": "https://vbtrax.com/track/clicks/4127/c627c2bc9b0428dcfe8dec23d62e9e44256d49c063b2a0f90361b00271401de3c021e7e5593c99616c?subid_1=shengyican",
-"buyName": "Uber Eats"
-},
-{
-"brand": "Uber Eats",
-"cat": "外送",
-"code": "十月好六",
-"ends": "2026-10-31",
-"gift": "6 折",
-"how": "Uber Eats 結帳輸入代碼，限用 1 次",
-"mapq": "Uber Eats",
-"meals": [
-"午餐",
-"晚餐",
-"宵夜"
-],
-"pct": 0.4,
-"people": 1,
-"regions": [
-"彰化縣"
-],
-"src": "https://www.callingtaiwan.com.tw/%E5%A4%96%E9%80%81%E5%84%AA%E6%83%A0%E7%B8%BD%E6%95%B4%E7%90%86-foodpanda-ubereats/",
-"title": "彰化縣限定：外送滿 149 元 6 折（最高折 60 元）",
-"id": "ue-region-12480",
-"buy": "https://vbtrax.com/track/clicks/4127/c627c2bc9b0428dcfe8dec23d62e9e44256d49c063b2a0f90361b00271401de3c021e7e5593c99616c?subid_1=shengyican",
-"buyName": "Uber Eats"
-},
-{
-"brand": "Uber Eats",
-"cat": "外送",
-"code": "十月喜六",
-"ends": "2026-10-31",
-"gift": "6 折",
-"how": "Uber Eats 結帳輸入代碼，限用 1 次",
-"mapq": "Uber Eats",
-"meals": [
-"午餐",
-"晚餐",
-"宵夜"
-],
-"pct": 0.4,
-"people": 1,
-"regions": [
-"雲林縣"
-],
-"src": "https://www.callingtaiwan.com.tw/%E5%A4%96%E9%80%81%E5%84%AA%E6%83%A0%E7%B8%BD%E6%95%B4%E7%90%86-foodpanda-ubereats/",
-"title": "雲林縣限定：外送滿 149 元 6 折（最高折 60 元）",
-"id": "ue-region-14920",
-"buy": "https://vbtrax.com/track/clicks/4127/c627c2bc9b0428dcfe8dec23d62e9e44256d49c063b2a0f90361b00271401de3c021e7e5593c99616c?subid_1=shengyican",
-"buyName": "Uber Eats"
-},
-{
-"brand": "Uber Eats",
-"cat": "外送",
-"code": "十享七五",
-"ends": "2026-10-31",
-"gift": "75 折",
-"how": "Uber Eats 結帳輸入代碼，限用 1 次",
-"mapq": "Uber Eats",
-"meals": [
-"午餐",
-"晚餐",
-"宵夜"
-],
-"pct": 0.25,
-"people": 1,
-"regions": [
-"基隆市"
-],
-"src": "https://www.callingtaiwan.com.tw/%E5%A4%96%E9%80%81%E5%84%AA%E6%83%A0%E7%B8%BD%E6%95%B4%E7%90%86-foodpanda-ubereats/",
-"title": "基隆市限定：外送滿 149 元 75 折（最高折 40 元）",
-"id": "ue-region-22955",
-"buy": "https://vbtrax.com/track/clicks/4127/c627c2bc9b0428dcfe8dec23d62e9e44256d49c063b2a0f90361b00271401de3c021e7e5593c99616c?subid_1=shengyican",
-"buyName": "Uber Eats"
-},
-{
-"brand": "Uber Eats",
-"cat": "外送",
-"code": "十月點六",
-"ends": "2026-10-31",
-"gift": "6 折",
-"how": "Uber Eats 結帳輸入代碼，限用 1 次",
-"mapq": "Uber Eats",
-"meals": [
-"午餐",
-"晚餐",
-"宵夜"
-],
-"pct": 0.4,
-"people": 1,
-"regions": [
-"苗栗縣"
-],
-"src": "https://www.callingtaiwan.com.tw/%E5%A4%96%E9%80%81%E5%84%AA%E6%83%A0%E7%B8%BD%E6%95%B4%E7%90%86-foodpanda-ubereats/",
-"title": "苗栗縣限定：外送滿 149 元 6 折（最高折 60 元）",
-"id": "ue-region-40727",
-"buy": "https://vbtrax.com/track/clicks/4127/c627c2bc9b0428dcfe8dec23d62e9e44256d49c063b2a0f90361b00271401de3c021e7e5593c99616c?subid_1=shengyican",
-"buyName": "Uber Eats"
-},
-{
-"brand": "Uber Eats",
-"cat": "外送",
-"code": "十月狂六",
-"ends": "2026-10-31",
-"gift": "6 折",
-"how": "Uber Eats 結帳輸入代碼，限用 1 次",
-"mapq": "Uber Eats",
-"meals": [
-"午餐",
-"晚餐",
-"宵夜"
-],
-"pct": 0.4,
-"people": 1,
-"regions": [
-"屏東縣"
-],
-"src": "https://www.callingtaiwan.com.tw/%E5%A4%96%E9%80%81%E5%84%AA%E6%83%A0%E7%B8%BD%E6%95%B4%E7%90%86-foodpanda-ubereats/",
-"title": "屏東縣限定：外送滿 149 元 6 折（最高折 60 元）",
-"id": "ue-region-42441",
-"buy": "https://vbtrax.com/track/clicks/4127/c627c2bc9b0428dcfe8dec23d62e9e44256d49c063b2a0f90361b00271401de3c021e7e5593c99616c?subid_1=shengyican",
-"buyName": "Uber Eats"
-},
-{
-"brand": "Uber Eats",
-"cat": "外送",
-"code": "十月省六",
-"ends": "2026-10-31",
-"gift": "6 折",
-"how": "Uber Eats 結帳輸入代碼，限用 1 次",
-"mapq": "Uber Eats",
-"meals": [
-"午餐",
-"晚餐",
-"宵夜"
-],
-"pct": 0.4,
-"people": 1,
-"regions": [
-"宜蘭縣"
-],
-"src": "https://www.callingtaiwan.com.tw/%E5%A4%96%E9%80%81%E5%84%AA%E6%83%A0%E7%B8%BD%E6%95%B4%E7%90%86-foodpanda-ubereats/",
-"title": "宜蘭縣限定：外送滿 149 元 6 折（最高折 60 元）",
-"id": "ue-region-46298",
-"buy": "https://vbtrax.com/track/clicks/4127/c627c2bc9b0428dcfe8dec23d62e9e44256d49c063b2a0f90361b00271401de3c021e7e5593c99616c?subid_1=shengyican",
-"buyName": "Uber Eats"
-},
-{
-"brand": "Uber Eats",
-"cat": "外送",
-"code": "十月吃六",
-"ends": "2026-10-31",
-"gift": "6 折",
-"how": "Uber Eats 結帳輸入代碼，限用 1 次",
-"mapq": "Uber Eats",
-"meals": [
-"午餐",
-"晚餐",
-"宵夜"
-],
-"pct": 0.4,
-"people": 1,
-"regions": [
-"南投縣"
-],
-"src": "https://www.callingtaiwan.com.tw/%E5%A4%96%E9%80%81%E5%84%AA%E6%83%A0%E7%B8%BD%E6%95%B4%E7%90%86-foodpanda-ubereats/",
-"title": "南投縣限定：外送滿 149 元 6 折（最高折 60 元）",
-"id": "ue-region-47200",
-"buy": "https://vbtrax.com/track/clicks/4127/c627c2bc9b0428dcfe8dec23d62e9e44256d49c063b2a0f90361b00271401de3c021e7e5593c99616c?subid_1=shengyican",
-"buyName": "Uber Eats"
-},
-{
-"brand": "Uber Eats",
-"cat": "外送",
-"code": "十月飽六",
-"ends": "2026-10-31",
-"gift": "6 折",
-"how": "Uber Eats 結帳輸入代碼，限用 1 次",
-"mapq": "Uber Eats",
-"meals": [
-"午餐",
-"晚餐",
-"宵夜"
-],
-"pct": 0.4,
-"people": 1,
-"regions": [
-"嘉義市",
-"嘉義縣"
-],
-"src": "https://www.callingtaiwan.com.tw/%E5%A4%96%E9%80%81%E5%84%AA%E6%83%A0%E7%B8%BD%E6%95%B4%E7%90%86-foodpanda-ubereats/",
-"title": "嘉義市、嘉義縣限定：外送滿 149 元 6 折（最高折 60 元）",
-"id": "ue-region-68875",
-"buy": "https://vbtrax.com/track/clicks/4127/c627c2bc9b0428dcfe8dec23d62e9e44256d49c063b2a0f90361b00271401de3c021e7e5593c99616c?subid_1=shengyican",
-"buyName": "Uber Eats"
-},
-{
-"brand": "Uber Eats",
-"cat": "外送",
-"code": "十月要六",
-"ends": "2026-10-31",
-"gift": "5 折",
-"how": "Uber Eats 結帳輸入代碼，限用 1 次",
-"mapq": "Uber Eats",
-"meals": [
-"午餐",
-"晚餐",
-"宵夜"
-],
-"pct": 0.5,
-"people": 1,
-"regions": [
-"台南市"
-],
-"src": "https://www.callingtaiwan.com.tw/%E5%A4%96%E9%80%81%E5%84%AA%E6%83%A0%E7%B8%BD%E6%95%B4%E7%90%86-foodpanda-ubereats/",
-"title": "台南市限定：外送滿 149 元 5 折（最高折 80 元）",
-"id": "ue-region-86462",
-"note": "另有資料寫 6 折、最高折 60 元，實際折數以 APP 顯示為準",
-"buy": "https://vbtrax.com/track/clicks/4127/c627c2bc9b0428dcfe8dec23d62e9e44256d49c063b2a0f90361b00271401de3c021e7e5593c99616c?subid_1=shengyican",
-"buyName": "Uber Eats"
 },
 {
 "brand": "麥當勞",
@@ -1415,60 +862,6 @@
 "id": "kfc-16584"
 },
 {
-"brand": "拿坡里",
-"cat": "披薩",
-"meals": [
-"午餐",
-"晚餐",
-"宵夜"
-],
-"title": "大披薩",
-"price": 199,
-"orig": 390,
-"people": 2,
-"how": "內用或外帶",
-"ends": "2026-10-25",
-"src": "https://travel.udn.com/travel/story/7193/9823414",
-"mapq": "拿坡里",
-"id": "napoli-pizza199"
-},
-{
-"brand": "拿坡里",
-"cat": "炸雞",
-"meals": [
-"午餐",
-"晚餐",
-"宵夜"
-],
-"title": "炸雞或烤雞 6 塊",
-"price": 209,
-"orig": 390,
-"people": 2,
-"how": "內用或外帶，加 30 元可換 6 塊脆皮雞腿",
-"ends": "2026-10-25",
-"src": "https://travel.udn.com/travel/story/7193/9823414",
-"mapq": "拿坡里",
-"id": "napoli-chicken6"
-},
-{
-"brand": "必勝客",
-"cat": "披薩",
-"meals": [
-"午餐",
-"晚餐"
-],
-"title": "大披薩 10 種口味任選",
-"price": 199,
-"people": 2,
-"how": "外帶單筆，結帳輸入代碼",
-"code": "94199",
-"ends": "2026-10-30",
-"note": "只在平日：10/23、10/27–30",
-"src": "https://www.ettoday.net/news/20261003/3247862.htm",
-"mapq": "必勝客",
-"id": "ph-94199"
-},
-{
 "brand": "21風味館",
 "cat": "小吃",
 "meals": [
@@ -1643,7 +1036,9 @@
 "note": "外送和 7-11 櫃位不適用，不是每天都有，請先確認",
 "src": "https://www.nownews.com/news/6883525",
 "mapq": "Mister Donut",
-"id": "misterdonut-zhenshi"
+"id": "misterdonut-zhenshi",
+"status": "pending",
+"checked": "2026-10-25"
 },
 {
 "brand": "哈根達斯",
@@ -1686,75 +1081,6 @@
 "id": "momo-hd-15711886"
 },
 {
-"brand": "TEA TOP 第一味",
-"cat": "飲料",
-"meals": [
-"午餐",
-"晚餐"
-],
-"title": "奶茶第二杯半價（北部 2 杯）",
-"price": 90,
-"orig": 120,
-"people": 2,
-"how": "出示食尚玩家 APP 的優惠卡",
-"ends": "2026-10-30",
-"note": "中南部 2 杯 82 元（原價 110 元）",
-"src": "https://supertaste.tvbs.com.tw/pack/361986",
-"mapq": "TEA TOP 第一味",
-"id": "teatop-half"
-},
-{
-"brand": "成真咖啡",
-"cat": "飲料",
-"meals": [
-"早餐",
-"午餐"
-],
-"title": "外帶咖啡飲品買一送一（190 元以下）",
-"gift": "買一送一",
-"pct": 0.5,
-"people": 2,
-"how": "出示食尚玩家 APP 的優惠卡，限外帶",
-"ends": "2026-10-27",
-"src": "https://supertaste.tvbs.com.tw/pack/361986",
-"mapq": "成真咖啡",
-"id": "chengzhen-bogo"
-},
-{
-"brand": "早到晚到",
-"cat": "飲料",
-"meals": [
-"午餐",
-"晚餐"
-],
-"title": "紅茶、冷泡茶或小時候奶茶同品項買一送一",
-"gift": "買一送一",
-"pct": 0.5,
-"people": 2,
-"how": "出示食尚玩家 APP 的優惠卡",
-"ends": "2026-10-28",
-"src": "https://supertaste.tvbs.com.tw/pack/361986",
-"mapq": "早到晚到",
-"id": "zaodao-bogo"
-},
-{
-"brand": "茶詠春",
-"cat": "飲料",
-"meals": [
-"午餐",
-"晚餐"
-],
-"title": "單筆滿 200 元打 85 折",
-"gift": "85 折",
-"pct": 0.15,
-"how": "出示食尚玩家 APP 的優惠卡",
-"ends": "2026-10-26",
-"src": "https://supertaste.tvbs.com.tw/pack/361986",
-"people": 1,
-"mapq": "茶詠春",
-"id": "chayongchun-85"
-},
-{
 "brand": "CoCo都可",
 "cat": "飲料",
 "meals": [
@@ -1787,58 +1113,9 @@
 "note": "依各門市規定",
 "src": "https://www.beauty321.com/post/73497",
 "mapq": "50嵐",
-"id": "50lan-5plus1"
-},
-{
-"brand": "晨間廚房",
-"cat": "早餐店",
-"meals": [
-"早餐"
-],
-"title": "芋泥炸蛋餅 8 折",
-"price": 48,
-"orig": 60,
-"how": "出示食尚玩家 APP 的優惠卡，內用外帶皆可，每人限 1 份",
-"ends": "2026-10-27",
-"src": "https://supertaste.tvbs.com.tw/pack/361986",
-"people": 1,
-"mapq": "晨間廚房",
-"id": "morningkitchen-taro"
-},
-{
-"brand": "泰滾mini",
-"cat": "火鍋",
-"meals": [
-"午餐",
-"晚餐"
-],
-"title": "免收鍋底費",
-"gift": "免鍋底費",
-"how": "出示食尚玩家 APP 的優惠卡，1 人以上",
-"ends": "2026-11-01",
-"note": "最多省 98 元",
-"src": "https://supertaste.tvbs.com.tw/pack/361986",
-"people": 1,
-"mapq": "泰滾mini",
-"id": "taigunmini-base"
-},
-{
-"brand": "賴山嶼麻辣燙",
-"cat": "火鍋",
-"meals": [
-"午餐",
-"晚餐",
-"宵夜"
-],
-"title": "店內消費滿 300 元送氣泡飲",
-"gift": "送飲料",
-"how": "出示食尚玩家 APP 的優惠卡",
-"ends": "2026-11-01",
-"note": "贈品價值 79 元",
-"src": "https://supertaste.tvbs.com.tw/pack/361986",
-"people": 1,
-"mapq": "賴山嶼麻辣燙",
-"id": "laishanyu-drink"
+"id": "50lan-5plus1",
+"status": "pending",
+"checked": "2026-10-25"
 },
 {
 "brand": "這一小鍋",
@@ -1854,24 +1131,9 @@
 "src": "https://www.orissic.com/news/event/",
 "people": 1,
 "mapq": "這一小鍋",
-"id": "orissic-id"
-},
-{
-"brand": "壽司郎",
-"cat": "壽司",
-"meals": [
-"午餐",
-"晚餐"
-],
-"title": "野生南方黑鮪魚中腹",
-"price": 40,
-"how": "門市點餐",
-"ends": "2026-10-30",
-"note": "只有平日：10/23、10/27–30",
-"src": "https://travel.ettoday.net/article/3257352.htm",
-"people": 1,
-"mapq": "壽司郎",
-"id": "sushiro-toro40"
+"id": "orissic-id",
+"status": "pending",
+"checked": "2026-10-25"
 },
 {
 "brand": "藏壽司",
@@ -1923,27 +1185,9 @@
 "src": "https://today.line.me/tw/v3/article/wJvVxal",
 "mapq": "滷味",
 "people": 1,
-"id": "fp-pickup-luwei"
-},
-{
-"brand": "Uber Eats",
-"cat": "滷味",
-"meals": [
-"晚餐",
-"宵夜"
-],
-"title": "Uber One 會員滷味外帶自取 7 折（最高折 60 元，可用 5 次）",
-"gift": "自取 7 折",
-"pct": 0.3,
-"how": "在 Uber Eats 點附近滷味，選外帶自取並輸入代碼，要綁信用卡",
-"code": "十月來外帶",
-"ends": "2026-10-31",
-"src": "https://supertaste.tvbs.com.tw/food/361747",
-"mapq": "滷味",
-"people": 1,
-"id": "ue-pickup-luwei",
-"buy": "https://vbtrax.com/track/clicks/4127/c627c2bc9b0428dcfe8dec23d62e9e44256d49c063b2a0f90361b00271401de3c021e7e5593c99616c?subid_1=shengyican",
-"buyName": "Uber Eats"
+"id": "fp-pickup-luwei",
+"status": "pending",
+"checked": "2026-10-25"
 },
 {
 "brand": "全家",
@@ -1961,43 +1205,9 @@
 "src": "https://www.chinatimes.com/realtimenews/20261019001734-260405",
 "mapq": "全家便利商店",
 "people": 1,
-"id": "fm-uno-pasta"
-},
-{
-"brand": "Krispy Kreme",
-"cat": "甜點",
-"meals": [
-"午餐",
-"晚餐"
-],
-"title": "萬聖節限定甜甜圈 6 入",
-"price": 299,
-"orig": 360,
-"people": 3,
-"how": "門市購買",
-"ends": "2026-10-31",
-"note": "原價以單顆 60 元推算",
-"src": "https://www.marieclaire.com.tw/lifestyle/taste/96393",
-"mapq": "Krispy Kreme",
-"id": "krispy-hw6"
-},
-{
-"brand": "Krispy Kreme",
-"cat": "甜點",
-"meals": [
-"午餐",
-"晚餐"
-],
-"title": "萬聖節限定甜甜圈 12 入",
-"price": 499,
-"orig": 720,
-"people": 6,
-"how": "門市購買",
-"ends": "2026-10-31",
-"note": "原價以單顆 60 元推算",
-"src": "https://www.marieclaire.com.tw/lifestyle/taste/96393",
-"mapq": "Krispy Kreme",
-"id": "krispy-hw12"
+"id": "fm-uno-pasta",
+"status": "pending",
+"checked": "2026-10-25"
 },
 {
 "brand": "肯德基",
@@ -2016,7 +1226,9 @@
 "note": "結束日未公布，請先確認",
 "src": "https://applealmond.com/posts/315897",
 "mapq": "肯德基",
-"id": "kfc-50526"
+"id": "kfc-50526",
+"status": "pending",
+"checked": "2026-10-25"
 },
 {
 "brand": "肯德基",
@@ -2049,7 +1261,9 @@
 "src": "https://www.marieclaire.com.tw/lifestyle/taste/96393",
 "mapq": "全家便利商店",
 "people": 1,
-"id": "fm-softserve-night"
+"id": "fm-softserve-night",
+"status": "pending",
+"checked": "2026-10-25"
 },
 {
 "brand": "全家",
@@ -2069,78 +1283,6 @@
 "people": 1,
 "id": "fm-witchfinger",
 "hot": true
-},
-{
-"brand": "頂呱呱",
-"cat": "炸雞",
-"meals": [
-"午餐",
-"晚餐"
-],
-"title": "呱呱包雙入重量餐（呱呱包 2＋青花椒雞＋地瓜薯條＋甜甜包＋中可樂）",
-"price": 259,
-"orig": 376,
-"people": 2,
-"how": "門市點餐",
-"ends": "2026-10-26",
-"note": "10/22 才開始",
-"src": "https://www.chinatimes.com/realtimenews/20261019001915-260405",
-"mapq": "頂呱呱",
-"id": "tkk-double259"
-},
-{
-"brand": "麥當勞",
-"cat": "漢堡速食",
-"meals": [
-"午餐",
-"晚餐",
-"宵夜"
-],
-"title": "APP 單筆滿 200 元送中薯",
-"gift": "送中薯",
-"how": "麥當勞 APP 點餐",
-"ends": "2026-10-25",
-"src": "https://www.chinatimes.com/realtimenews/20261019001915-260405",
-"people": 1,
-"mapq": "麥當勞",
-"id": "mcd-app-fries200"
-},
-{
-"brand": "麥當勞",
-"cat": "飲料",
-"meals": [
-"午餐",
-"晚餐",
-"宵夜"
-],
-"title": "中杯可樂或雪碧買一送一",
-"gift": "買一送一",
-"pct": 0.5,
-"people": 2,
-"how": "麥當勞 APP 點餐",
-"ends": "2026-10-25",
-"src": "https://www.chinatimes.com/realtimenews/20261019001915-260405",
-"mapq": "麥當勞",
-"id": "mcd-app-coke-bogo"
-},
-{
-"id": "napoli-tart6",
-"brand": "拿坡里",
-"cat": "甜點",
-"meals": [
-"午餐",
-"晚餐",
-"宵夜"
-],
-"title": "經典原味蛋塔 6 入",
-"price": 199,
-"orig": 270,
-"people": 2,
-"how": "門市點餐",
-"ends": "2026-10-25",
-"note": "月月慶，數量和門市依拿坡里公告",
-"src": "https://supertaste.tvbs.com.tw/pack/362009",
-"mapq": "拿坡里"
 },
 {
 "id": "ph-tart6plus6",
@@ -2180,95 +1322,7 @@
 "note": "限時 6 折，628 元為折後價",
 "src": "https://supertaste.tvbs.com.tw/pack/362009",
 "mapq": "必勝客",
-"icon": "pizza",
-"hot": true
-},
-{
-"id": "711-xl-latte10",
-"brand": "7-11",
-"cat": "超商",
-"meals": [
-"早餐",
-"午餐"
-],
-"title": "CITY CAFE 特大杯拿鐵 10 杯",
-"price": 480,
-"people": 10,
-"how": "OPENPOINT APP 行動隨時取寄杯，再到門市兌換",
-"ends": "2026-10-31",
-"note": "10/22 起開賣，每杯約 48 元",
-"src": "https://www.ctee.com.tw/news/20261019700981-431401",
-"mapq": "7-11",
-"orig": 700
-},
-{
-"id": "711-xl-americano10",
-"brand": "7-11",
-"cat": "超商",
-"meals": [
-"早餐",
-"午餐"
-],
-"title": "CITY CAFE 特大杯美式 10 杯",
-"price": 360,
-"people": 10,
-"how": "OPENPOINT APP 行動隨時取寄杯，再到門市兌換",
-"ends": "2026-10-31",
-"note": "10/22 起開賣，每杯約 36 元",
-"src": "https://www.ctee.com.tw/news/20261019700981-431401",
-"mapq": "7-11",
-"orig": 600
-},
-{
-"id": "711-americano17",
-"brand": "7-11",
-"cat": "超商",
-"meals": [
-"早餐",
-"午餐"
-],
-"title": "CITY CAFE 大杯濃萃美式 17 杯",
-"price": 500,
-"people": 17,
-"how": "OPENPOINT APP 行動隨時取寄杯，再到門市兌換",
-"ends": "2026-10-27",
-"note": "每杯約 29 元",
-"src": "https://www.ctee.com.tw/news/20261019700981-431401",
-"mapq": "7-11"
-},
-{
-"id": "711-latte17",
-"brand": "7-11",
-"cat": "超商",
-"meals": [
-"早餐",
-"午餐"
-],
-"title": "CITY CAFE 大杯濃萃拿鐵 17 杯",
-"price": 700,
-"people": 17,
-"how": "OPENPOINT APP 行動隨時取寄杯，再到門市兌換",
-"ends": "2026-10-27",
-"note": "每杯約 41 元",
-"src": "https://www.ctee.com.tw/news/20261019700981-431401",
-"mapq": "7-11"
-},
-{
-"id": "hilife-coffee30",
-"brand": "萊爾富",
-"cat": "超商",
-"meals": [
-"早餐",
-"午餐"
-],
-"title": "Hi café 大杯特濃美式或拿鐵",
-"gift": "買 30 送 30",
-"pct": 0.5,
-"how": "萊爾富 APP 寄杯",
-"ends": "2026-10-31",
-"src": "https://www.ctee.com.tw/news/20261019700981-431401",
-"mapq": "萊爾富",
-"people": 1
+"icon": "pizza"
 },
 {
 "id": "fm-letstea-2nd",
@@ -2304,79 +1358,6 @@
 "note": "單杯 39 元；原價以單杯 39 元乘 2 推算",
 "src": "https://supertaste.tvbs.com.tw/pack/362009",
 "mapq": "OK超商"
-},
-{
-"id": "coco-value",
-"brand": "CoCo都可",
-"cat": "飲料",
-"meals": [
-"午餐",
-"晚餐"
-],
-"title": "省錢福利品：粉角奶茶 39 元、茉莉綠茶 29 元",
-"price": 29,
-"how": "門市臨櫃或官方 LINE 訂購",
-"ends": "2026-10-31",
-"note": "商場門市及部分門市不參加",
-"src": "https://supertaste.tvbs.com.tw/pack/362009",
-"mapq": "CoCo都可",
-"people": 1
-},
-{
-"id": "teatop-2nd-half",
-"brand": "TEATOP第一味",
-"cat": "飲料",
-"meals": [
-"午餐",
-"晚餐"
-],
-"title": "奶茶第二杯半價",
-"price": 90,
-"orig": 120,
-"people": 2,
-"how": "出示食尚玩家 APP 的優惠卡",
-"ends": "2026-10-30",
-"note": "北部價；中南部 2 杯 82 元",
-"src": "https://supertaste.tvbs.com.tw/pack/361756",
-"mapq": "TEATOP第一味"
-},
-{
-"id": "cp-satay179",
-"brand": "繼光香香雞",
-"cat": "雞排鹹酥雞",
-"meals": [
-"午餐",
-"晚餐",
-"宵夜"
-],
-"title": "沙嗲香脆組：沙嗲無骨腿丁＋印尼蝦餅",
-"price": 179,
-"orig": 190,
-"how": "門市點餐",
-"ends": "2026-10-31",
-"note": "10 月優惠，結束日請向門市確認",
-"src": "https://www.nownews.com/news/6879357",
-"mapq": "繼光香香雞",
-"people": 1
-},
-{
-"id": "cp-satay199",
-"brand": "繼光香香雞",
-"cat": "雞排鹹酥雞",
-"meals": [
-"午餐",
-"晚餐",
-"宵夜"
-],
-"title": "沙嗲鮮香組：沙嗲無骨腿丁＋九層塔花枝丸",
-"price": 199,
-"orig": 223,
-"how": "門市點餐",
-"ends": "2026-10-31",
-"note": "10 月優惠，結束日請向門市確認",
-"src": "https://www.nownews.com/news/6879357",
-"mapq": "繼光香香雞",
-"people": 1
 },
 {
 "id": "711-izhenshi",
@@ -2472,7 +1453,8 @@
 "src": "https://www.pkcard.com.tw/gift.php",
 "mapq": "肯德基",
 "bday": true,
-"people": 1
+"people": 1,
+"checked": "2026-11-02"
 },
 {
 "id": "bd-ph",
@@ -2853,8 +1835,7 @@
 "how": "門市點餐",
 "ends": "2026-11-02",
 "src": "https://supertaste.tvbs.com.tw/pack/362071",
-"mapq": "肯德基",
-"hot": true
+"mapq": "肯德基"
 },
 {
 "id": "dicos-face-qq",
@@ -2873,8 +1854,7 @@
 "src": "https://supertaste.tvbs.com.tw/pack/362071",
 "mapq": "德克士",
 "icon": "drumstick",
-"people": 1,
-"hot": true
+"people": 1
 },
 {
 "id": "ph-taro-volcano",
@@ -2893,50 +1873,7 @@
 "note": "數量有限",
 "src": "https://woman.udn.com/woman/story/123162/9813234",
 "mapq": "必勝客",
-"people": 1,
-"hot": true
-},
-{
-"id": "mos-konjac2",
-"brand": "摩斯漢堡",
-"cat": "飲料",
-"meals": [
-"早餐",
-"午餐",
-"晚餐"
-],
-"title": "蒟蒻飲品任選 2 杯",
-"price": 52,
-"people": 2,
-"how": "門市點餐",
-"ends": "2026-10-31",
-"note": "指定商品送萬聖節貼紙，每店限 100 份",
-"src": "https://woman.udn.com/woman/story/123162/9813234",
-"mapq": "摩斯漢堡",
-"icon": "tea"
-},
-{
-"id": "711-thor-sweets",
-"brand": "7-11",
-"cat": "甜點",
-"meals": [
-"早餐",
-"午餐",
-"晚餐",
-"宵夜"
-],
-"title": "雷神巧克力聯名：脆脆甜甜圈、脆脆麵包、白雷神泡芙，第 2 件省 10 元",
-"gift": "第 2 件省 $10",
-"how": "門市直接買",
-"ends": "2026-10-27",
-"note": "全通路獨家聯名；另有雷神巧克力霜淇淋",
-"src": "https://www.chinatimes.com/realtimenews/20261015003851-260405",
-"mapq": "7-11",
-"icon": "donut",
-"hot": true,
-"people": 1,
-"added": "2026-10-22",
-"checked": "2026-10-22"
+"people": 1
 },
 {
 "id": "fm-taro-sweets",
@@ -3088,26 +2025,6 @@
 "checked": "2026-10-23"
 },
 {
-"id": "ftt-pork168",
-"brand": "福勝亭",
-"cat": "便當",
-"meals": [
-"午餐",
-"晚餐"
-],
-"title": "開運豬排定食（20 週年價）",
-"price": 168,
-"orig": 230,
-"how": "門市點餐",
-"ends": "2026-10-24",
-"note": "內用白飯、味噌湯、高麗菜絲無限續",
-"src": "https://travel.udn.com/travel/story/7193/9811051",
-"mapq": "福勝亭",
-"people": 1,
-"added": "2026-10-23",
-"checked": "2026-10-23"
-},
-{
 "id": "sq-coffee-pork-rice",
 "brand": "三商巧福",
 "cat": "便當",
@@ -3183,234 +2100,6 @@
 "note": "券可用到 12/31，每份套餐限用 1 張",
 "src": "https://supertaste.tvbs.com.tw/food/362074",
 "mapq": "石二鍋",
-"people": 1,
-"added": "2026-10-23",
-"checked": "2026-10-23"
-},
-{
-"id": "yuye-wagyu",
-"brand": "羽葉麻辣火鍋",
-"cat": "火鍋",
-"meals": [
-"午餐",
-"晚餐"
-],
-"title": "麻辣火鍋送 A5 和牛 2 份＋哈根達斯雪糕",
-"gift": "送和牛＋雪糕",
-"how": "出示食尚玩家 APP 的優惠卡",
-"ends": "2026-11-01",
-"note": "依基本開鍋規定用餐，限量 1000 張",
-"src": "https://supertaste.tvbs.com.tw/pack/361986",
-"mapq": "羽葉麻辣火鍋",
-"icon": "hotpot",
-"people": 1,
-"added": "2026-10-23",
-"checked": "2026-10-23"
-},
-{
-"id": "ogawa-seafood150",
-"brand": "小川鍋物",
-"cat": "火鍋",
-"meals": [
-"午餐",
-"晚餐"
-],
-"title": "點任一鍋物，150 元加購海鮮三品",
-"price": 150,
-"orig": 199,
-"how": "出示食尚玩家 APP 的優惠卡",
-"ends": "2026-11-01",
-"regions": [
-"台北市",
-"新北市"
-],
-"note": "只限信義店、淡水店，限量 1000 張",
-"src": "https://supertaste.tvbs.com.tw/pack/361986",
-"mapq": "小川鍋物",
-"icon": "hotpot",
-"people": 1,
-"added": "2026-10-23",
-"checked": "2026-10-23"
-},
-{
-"id": "topone-halloween",
-"brand": "這一鍋",
-"cat": "火鍋",
-"meals": [
-"晚餐"
-],
-"title": "火鍋 4 人套餐 5 折（萬聖節變裝）",
-"gift": "5 折",
-"pct": 0.5,
-"people": 4,
-"how": "電話訂位，4 人以上全桌變裝，拍照發 IG 標記 @toponepot",
-"ends": "2026-10-31",
-"note": "每店限量 25 組，細節請先向門市確認",
-"src": "https://money.udn.com/money/story/122328/9815922",
-"mapq": "這一鍋",
-"added": "2026-10-23",
-"checked": "2026-10-23"
-},
-{
-"id": "kfc-50529",
-"brand": "肯德基",
-"cat": "炸雞",
-"meals": [
-"午餐",
-"晚餐"
-],
-"title": "經典澎派桶：咔啦脆雞 6 塊＋原味蛋撻 6 入",
-"price": 333,
-"people": 3,
-"how": "點餐報代碼",
-"code": "50529",
-"ends": "2026-10-29",
-"src": "https://www.nownews.com/news/6880781",
-"mapq": "肯德基",
-"added": "2026-10-23",
-"checked": "2026-10-23"
-},
-{
-"id": "kfc-50528",
-"brand": "肯德基",
-"cat": "炸雞",
-"meals": [
-"午餐",
-"晚餐"
-],
-"title": "無骨澎派桶：無骨雞腿霸 6 塊＋原味蛋撻 6 入＋沾醬",
-"price": 333,
-"people": 3,
-"how": "點餐報代碼",
-"code": "50528",
-"ends": "2026-10-29",
-"src": "https://www.nownews.com/news/6880781",
-"mapq": "肯德基",
-"added": "2026-10-23",
-"checked": "2026-10-23"
-},
-{
-"id": "fp-pickup-luwei-half",
-"brand": "foodpanda",
-"cat": "滷味",
-"meals": [
-"晚餐",
-"宵夜"
-],
-"title": "滷味外帶自取滿 100 元 5 折（最高折 60 元）",
-"gift": "自取 5 折",
-"pct": 0.5,
-"how": "在 foodpanda 點附近滷味，選外帶自取並輸入代碼",
-"code": "自取感謝祭",
-"ends": "2026-10-31",
-"note": "限精選餐廳，以 APP 顯示為準",
-"src": "https://www.callingtaiwan.com.tw/foodpanda-coupon-code/",
-"mapq": "滷味",
-"people": 1,
-"added": "2026-10-23",
-"checked": "2026-10-23"
-},
-{
-"id": "ue-pickup-luwei-wed",
-"brand": "Uber Eats",
-"cat": "滷味",
-"meals": [
-"晚餐",
-"宵夜"
-],
-"title": "滷味外帶自取滿 149 元 5 折（10/28 週三限定）",
-"gift": "自取 5 折",
-"pct": 0.5,
-"how": "在 Uber Eats 點附近滷味，選外帶自取並輸入代碼",
-"code": "週三狂省",
-"ends": "2026-10-28",
-"note": "只限 10/28 當天，適用對象以 APP 顯示為準",
-"src": "https://kb56.tw/uber-eats-coupon/",
-"mapq": "滷味",
-"people": 1,
-"added": "2026-10-23",
-"checked": "2026-10-23",
-"buy": "https://vbtrax.com/track/clicks/4127/c627c2bc9b0428dcfe8dec23d62e9e44256d49c063b2a0f90361b00271401de3c021e7e5593c99616c?subid_1=shengyican",
-"buyName": "Uber Eats"
-},
-{
-"id": "711-prima10",
-"brand": "7-11",
-"cat": "超商",
-"meals": [
-"早餐",
-"午餐"
-],
-"title": "CITY PRIMA 精品香椰厚拿鐵或燕麥拿鐵 10 杯",
-"price": 600,
-"orig": 1100,
-"people": 10,
-"how": "OPENPOINT APP 行動隨時取寄杯，再到門市兌換",
-"ends": "2026-10-31",
-"note": "每會員限購 4 組，兌換到 12/31",
-"src": "https://www.ettoday.net/news/20261021/3257993.htm",
-"mapq": "7-11",
-"icon": "coffee",
-"added": "2026-10-23",
-"checked": "2026-10-23"
-},
-{
-"id": "711-pearltea10",
-"brand": "7-11",
-"cat": "飲料",
-"meals": [
-"午餐",
-"晚餐"
-],
-"title": "黑糖珍珠撞奶、珍珠奶茶任選 10 杯",
-"price": 360,
-"orig": 600,
-"people": 10,
-"how": "OPENPOINT APP 行動隨時取寄杯，再到門市兌換",
-"ends": "2026-10-31",
-"note": "每會員限購 4 組，兌換到 12/31",
-"src": "https://www.ettoday.net/news/20261021/3257993.htm",
-"mapq": "7-11",
-"icon": "tea",
-"added": "2026-10-23",
-"checked": "2026-10-23"
-},
-{
-"id": "711-2cups-1025",
-"brand": "7-11",
-"cat": "超商",
-"meals": [
-"早餐",
-"午餐"
-],
-"title": "CITY CAFE 大杯美式 2 杯 66 元、大杯拿鐵 2 杯 77 元",
-"price": 66,
-"people": 2,
-"how": "門市結帳",
-"ends": "2026-10-25",
-"src": "https://travel.udn.com/travel/story/7186/9830489",
-"mapq": "7-11",
-"icon": "coffee",
-"added": "2026-10-23",
-"checked": "2026-10-23"
-},
-{
-"id": "hilife-10plus10",
-"brand": "萊爾富",
-"cat": "超商",
-"meals": [
-"早餐",
-"午餐"
-],
-"title": "大杯美式、重乳拿鐵、台茶18紅玉拿鐵買 10 送 10",
-"gift": "買 10 送 10",
-"pct": 0.5,
-"how": "Hi-Life VIP APP「整買零取」寄杯",
-"ends": "2026-10-31",
-"note": "10/24 起，每會員每日限 2 組，兌換到 2027/1/31",
-"src": "https://www.ettoday.net/news/20261021/3257993.htm",
-"mapq": "萊爾富",
-"icon": "coffee",
 "people": 1,
 "added": "2026-10-23",
 "checked": "2026-10-23"
@@ -3524,131 +2213,6 @@
 "checked": "2026-10-23"
 },
 {
-"id": "ue-region-hualien",
-"brand": "Uber Eats",
-"cat": "外送",
-"meals": [
-"午餐",
-"晚餐",
-"宵夜"
-],
-"title": "花蓮縣限定：外送滿 149 元 75 折（最高折 40 元）",
-"gift": "75 折",
-"pct": 0.25,
-"how": "Uber Eats 結帳輸入代碼，限用 1 次",
-"code": "十訂七五",
-"ends": "2026-10-31",
-"regions": [
-"花蓮縣"
-],
-"src": "https://kb56.tw/uber-eats-coupon/",
-"mapq": "Uber Eats",
-"people": 1,
-"added": "2026-10-23",
-"checked": "2026-10-23",
-"buy": "https://vbtrax.com/track/clicks/4127/c627c2bc9b0428dcfe8dec23d62e9e44256d49c063b2a0f90361b00271401de3c021e7e5593c99616c?subid_1=shengyican",
-"buyName": "Uber Eats"
-},
-{
-"id": "ue-region-taitung",
-"brand": "Uber Eats",
-"cat": "外送",
-"meals": [
-"午餐",
-"晚餐",
-"宵夜"
-],
-"title": "台東縣限定：外送滿 149 元 75 折（最高折 40 元）",
-"gift": "75 折",
-"pct": 0.25,
-"how": "Uber Eats 結帳輸入代碼，限用 1 次",
-"code": "十想七五",
-"ends": "2026-10-31",
-"regions": [
-"台東縣"
-],
-"src": "https://kb56.tw/uber-eats-coupon/",
-"mapq": "Uber Eats",
-"people": 1,
-"added": "2026-10-23",
-"checked": "2026-10-23",
-"buy": "https://vbtrax.com/track/clicks/4127/c627c2bc9b0428dcfe8dec23d62e9e44256d49c063b2a0f90361b00271401de3c021e7e5593c99616c?subid_1=shengyican",
-"buyName": "Uber Eats"
-},
-{
-"id": "ue-region-penghu",
-"brand": "Uber Eats",
-"cat": "外送",
-"meals": [
-"午餐",
-"晚餐",
-"宵夜"
-],
-"title": "澎湖縣限定：外送滿 149 元 75 折（最高折 40 元）",
-"gift": "75 折",
-"pct": 0.25,
-"how": "Uber Eats 結帳輸入代碼，限用 1 次",
-"code": "十狂七五",
-"ends": "2026-10-31",
-"regions": [
-"澎湖縣"
-],
-"src": "https://kb56.tw/uber-eats-coupon/",
-"mapq": "Uber Eats",
-"people": 1,
-"added": "2026-10-23",
-"checked": "2026-10-23",
-"buy": "https://vbtrax.com/track/clicks/4127/c627c2bc9b0428dcfe8dec23d62e9e44256d49c063b2a0f90361b00271401de3c021e7e5593c99616c?subid_1=shengyican",
-"buyName": "Uber Eats"
-},
-{
-"id": "ue-region-kinmen",
-"brand": "Uber Eats",
-"cat": "外送",
-"meals": [
-"午餐",
-"晚餐",
-"宵夜"
-],
-"title": "金門縣限定：外送滿 149 元 75 折（最高折 40 元）",
-"gift": "75 折",
-"pct": 0.25,
-"how": "Uber Eats 結帳輸入代碼，限用 1 次",
-"code": "十有七五",
-"ends": "2026-10-31",
-"regions": [
-"金門縣"
-],
-"src": "https://kb56.tw/uber-eats-coupon/",
-"mapq": "Uber Eats",
-"people": 1,
-"added": "2026-10-23",
-"checked": "2026-10-23",
-"buy": "https://vbtrax.com/track/clicks/4127/c627c2bc9b0428dcfe8dec23d62e9e44256d49c063b2a0f90361b00271401de3c021e7e5593c99616c?subid_1=shengyican",
-"buyName": "Uber Eats"
-},
-{
-"id": "tkk-teaset139",
-"brand": "頂呱呱",
-"cat": "炸雞",
-"meals": [
-"午餐",
-"晚餐",
-"宵夜"
-],
-"title": "呱呱包午茶組（限時最低 69 折）",
-"price": 139,
-"how": "門市或線上點餐",
-"ends": "2026-10-26",
-"note": "多人分享組 439 元；套餐可加購辣味雞翅 2 入 75 元、原味雞腿 2 入 89 元；機場門市不適用",
-"src": "https://travel.udn.com/travel/story/7193/9832609",
-"mapq": "頂呱呱",
-"icon": "burger",
-"people": 1,
-"added": "2026-10-24",
-"checked": "2026-10-24"
-},
-{
 "id": "bk-peanut-double",
 "brand": "漢堡王",
 "cat": "漢堡速食",
@@ -3710,100 +2274,1047 @@
 "checked": "2026-10-24"
 },
 {
-"id": "fm-coffee-2plus2",
-"brand": "全家",
-"cat": "超商",
-"meals": [
-"早餐",
-"午餐"
-],
-"title": "Let's Café 大杯特濃美式、特濃拿鐵、厚濃抹茶拿鐵同品項買 2 送 2",
-"gift": "買 2 送 2",
-"pct": 0.5,
-"people": 4,
-"how": "門市結帳",
-"ends": "2026-10-27",
-"src": "https://supertaste.tvbs.com.tw/food/362115",
-"mapq": "全家",
-"icon": "coffee",
-"added": "2026-10-24",
-"checked": "2026-10-24"
-},
-{
-"id": "fm-softserve-2for55",
-"brand": "全家",
-"cat": "冰品",
+"id": "kfc-solo111-chicken",
+"brand": "肯德基",
+"cat": "炸雞",
 "meals": [
 "午餐",
 "晚餐",
 "宵夜"
 ],
-"title": "Fami!ce 霜淇淋不限口味 2 支",
-"price": 55,
-"orig": 98,
-"people": 2,
-"how": "門市結帳",
-"ends": "2026-10-27",
-"note": "限有霜淇淋機的門市",
-"src": "https://supertaste.tvbs.com.tw/food/362115",
-"mapq": "全家",
-"icon": "softserve",
-"added": "2026-10-24",
-"checked": "2026-10-24"
+"title": "咔啦脆雞 2 塊＋原味蛋撻 1 顆（個人獨享餐）",
+"price": 111,
+"how": "門市點餐",
+"note": "另有青花椒香麻脆雞 2 塊＋小杯無糖綠茶、原味蛋撻 2 顆＋上校雞塊 8 塊，同樣 111 元；結束日未公布，確認",
+"src": "https://www.chinatimes.com/realtimenews/20261028002191-260405",
+"mapq": "肯德基",
+"people": 1,
+"added": "2026-11-02",
+"checked": "2026-11-02"
 },
 {
-"id": "711-pearl-coffee10",
+"id": "kfc-bogo-1123",
+"brand": "肯德基",
+"cat": "炸雞",
+"meals": [
+"午餐",
+"晚餐",
+"宵夜"
+],
+"title": "爆脆無骨雞腿霸、4 塊上校雞塊、大份香酥脆薯、薯餅、中杯可樂買一送一",
+"gift": "買一送一",
+"pct": 0.5,
+"people": 2,
+"how": "門市點餐",
+"ends": "2026-11-23",
+"src": "https://www.chinatimes.com/realtimenews/20261028002191-260405",
+"mapq": "肯德基",
+"icon": "nuggets",
+"added": "2026-11-02",
+"checked": "2026-11-02"
+},
+{
+"id": "napoli-roast6wing2",
+"brand": "拿坡里",
+"cat": "炸雞",
+"meals": [
+"午餐",
+"晚餐",
+"宵夜"
+],
+"title": "烤雞 6 塊＋普羅旺斯烤雞翅 2 隻",
+"price": 209,
+"orig": 520,
+"people": 2,
+"how": "門市點餐",
+"ends": "2026-11-12",
+"src": "https://www.chinatimes.com/realtimenews/20261028002191-260405",
+"mapq": "拿坡里",
+"icon": "drumstick",
+"added": "2026-11-02",
+"checked": "2026-11-02"
+},
+{
+"id": "mcd-app-meal-fries",
+"brand": "麥當勞",
+"cat": "漢堡速食",
+"meals": [
+"午餐",
+"晚餐",
+"宵夜"
+],
+"title": "超值全餐送小薯（APP 優惠券）",
+"gift": "送小薯",
+"how": "麥當勞 APP 領券點餐",
+"ends": "2026-11-03",
+"note": "早餐時段買經典滿福或陽光蛋堡系列送薯餅",
+"src": "https://www.chinatimes.com/realtimenews/20261028002191-260405",
+"mapq": "麥當勞",
+"people": 1,
+"added": "2026-11-02",
+"checked": "2026-11-02"
+},
+{
+"id": "kfc-1111-tart",
+"brand": "肯德基",
+"cat": "甜點",
+"meals": [
+"午餐",
+"晚餐",
+"宵夜"
+],
+"title": "原味蛋撻 11 元（11.11 美食節限量券）",
+"price": 11,
+"orig": 47,
+"how": "PK 雙饗卡 APP 搶券，11/3、11/11、11/17、11/23 早上 10 點開賣",
+"ends": "2026-11-23",
+"note": "每帳號每品項限 1 組，售完為止；另有青花椒雞腿堡 XL 套餐 111 元",
+"src": "https://www.nownews.com/news/6888526",
+"mapq": "肯德基",
+"hot": true,
+"people": 1,
+"added": "2026-11-02",
+"checked": "2026-11-02"
+},
+{
+"id": "ph-1111-pizza",
+"brand": "必勝客",
+"cat": "披薩",
+"meals": [
+"午餐",
+"晚餐",
+"宵夜"
+],
+"title": "個人披薩 11 元、9 吋小披薩 111 元（11.11 美食節限量券）",
+"price": 11,
+"orig": 120,
+"how": "PK 雙饗卡 APP 搶券，11/3、11/11、11/17、11/23 早上 10 點開賣",
+"ends": "2026-11-23",
+"note": "每帳號每品項限 1 組，售完為止；外送大披薩另有買一送一",
+"src": "https://www.nownews.com/news/6888526",
+"mapq": "必勝客",
+"hot": true,
+"people": 1,
+"added": "2026-11-02",
+"checked": "2026-11-02"
+},
+{
+"id": "kfc-1111-chicken66",
+"brand": "肯德基",
+"cat": "炸雞",
+"meals": [
+"午餐",
+"晚餐",
+"宵夜"
+],
+"title": "咔啦脆雞＋無糖綠茶（隨饗券）",
+"price": 66,
+"how": "PK 雙饗卡 APP 買隨饗券，可跨店取餐",
+"ends": "2026-11-23",
+"note": "11/3 起；雞腿堡＋蛋撻＋綠茶套餐 111 元",
+"src": "https://www.nownews.com/news/6888526",
+"mapq": "肯德基",
+"people": 1,
+"added": "2026-11-02",
+"checked": "2026-11-02"
+},
+{
+"id": "marugame-dandan",
+"brand": "丸亀製麵",
+"cat": "麵",
+"meals": [
+"午餐",
+"晚餐"
+],
+"title": "青花椒擔擔烏龍麵（冬季新品，中碗）",
+"price": 139,
+"how": "門市點餐",
+"note": "大碗 169 元；期間限定，售完為止",
+"src": "https://supertaste.tvbs.com.tw/food/362227",
+"mapq": "丸亀製麵",
+"hot": true,
+"people": 1,
+"added": "2026-11-02",
+"checked": "2026-11-02"
+},
+{
+"id": "marugame-eggy",
+"brand": "丸亀製麵",
+"cat": "麵",
+"meals": [
+"午餐",
+"晚餐"
+],
+"title": "蛋仔派對聯名套餐：豆皮烏龍麵＋炸雞＋炸白身魚",
+"price": 209,
+"how": "門市點餐",
+"ends": "2026-12-06",
+"note": "11/3 起，附虛寶卡和鑰匙圈，數量有限",
+"src": "https://supertaste.tvbs.com.tw/food/362227",
+"mapq": "丸亀製麵",
+"hot": true,
+"people": 1,
+"added": "2026-11-02",
+"checked": "2026-11-02"
+},
+{
+"id": "711-premium-7plus7",
 "brand": "7-11",
 "cat": "超商",
 "meals": [
 "早餐",
 "午餐"
 ],
-"title": "CITY PEARL 咖啡珍珠歐蕾 10 杯",
-"price": 500,
-"orig": 750,
-"people": 10,
-"how": "OPENPOINT APP 行動隨時取寄杯，再到門市兌換",
-"ends": "2026-10-31",
-"note": "每會員限購 4 組，兌換到 12/31",
-"src": "https://supertaste.tvbs.com.tw/food/362115",
+"title": "精品美式、精品拿鐵、精品馥芮白大杯買 7 送 7",
+"gift": "買 7 送 7",
+"pct": 0.5,
+"people": 14,
+"how": "OPENPOINT APP 行動隨時取寄杯",
+"ends": "2026-11-05",
+"note": "精品美式平均每杯 50 元",
+"src": "https://www.ettoday.net/news/20261102/3264636.htm",
 "mapq": "7-11",
 "icon": "coffee",
-"added": "2026-10-24",
-"checked": "2026-10-24"
+"added": "2026-11-02",
+"checked": "2026-11-02"
 },
 {
-"id": "711-fruit-tea10",
-"brand": "7-11",
+"id": "fm-coffee-bogo-1104",
+"brand": "全家",
+"cat": "超商",
+"meals": [
+"早餐",
+"午餐"
+],
+"title": "大杯單品美式、單品拿鐵買一送一",
+"gift": "買一送一",
+"pct": 0.5,
+"people": 2,
+"how": "門市結帳",
+"ends": "2026-11-04",
+"note": "燒燒仙草、芝麻糊、霜淇淋、酷繽果同期間也買一送一",
+"src": "https://www.ettoday.net/news/20261102/3264636.htm",
+"mapq": "全家",
+"icon": "coffee",
+"added": "2026-11-02",
+"checked": "2026-11-02"
+},
+{
+"id": "coco-2for85",
+"brand": "CoCo都可",
 "cat": "飲料",
 "meals": [
 "午餐",
-"晚餐"
+"晚餐",
+"宵夜"
 ],
-"title": "CITY TEA 香鑽水果茶 10 杯",
-"price": 450,
-"orig": 700,
-"people": 10,
-"how": "OPENPOINT APP 行動隨時取寄杯，再到門市兌換",
-"ends": "2026-10-31",
-"note": "每會員限購 4 組，兌換到 12/31",
-"src": "https://supertaste.tvbs.com.tw/food/362115",
-"mapq": "7-11",
+"title": "可可甜心珍奶、葡萄柚果粒茶等 4 款大杯任選 2 杯",
+"price": 85,
+"people": 2,
+"how": "LINE 搜尋「都可訂」領好友券",
+"ends": "2026-11-30",
+"note": "每人最多 6 張券",
+"src": "https://news.tvbs.com.tw/life/4043447",
+"mapq": "CoCo都可",
 "icon": "tea",
-"added": "2026-10-24",
-"checked": "2026-10-24"
+"added": "2026-11-02",
+"checked": "2026-11-02"
+},
+{
+"id": "hechalou-tea-half",
+"brand": "鶴茶樓",
+"cat": "飲料",
+"meals": [
+"午餐",
+"晚餐",
+"宵夜"
+],
+"title": "純茶第二杯半價",
+"gift": "第 2 杯半價",
+"pct": 0.25,
+"people": 2,
+"how": "門市點餐",
+"ends": "2026-11-13",
+"note": "只限 11/9–11/13；11/2–11/6 買任一飲料送功夫烏龍茶丸",
+"src": "https://news.tvbs.com.tw/life/4043447",
+"mapq": "鶴茶樓",
+"icon": "tea",
+"added": "2026-11-02",
+"checked": "2026-11-02"
+},
+{
+"id": "ue-pickup-wed",
+"brand": "Uber Eats",
+"cat": "外送",
+"meals": [
+"午餐",
+"晚餐",
+"宵夜"
+],
+"title": "每週三外帶自取滿 149 元 5 折",
+"gift": "自取 5 折",
+"pct": 0.5,
+"how": "Uber Eats 選外帶自取，結帳輸入當週代碼",
+"code": "週三來吃",
+"ends": "2026-11-25",
+"note": "11/4 週三來吃、11/11 週三來點、11/18 週三來取、11/25 週三來省；只限當天，限量",
+"src": "https://kb56.tw/uber-eats-coupon/",
+"mapq": "Uber Eats",
+"people": 1,
+"added": "2026-11-02",
+"checked": "2026-11-02",
+"buy": "https://vbtrax.com/track/clicks/4127/c627c2bc9b0428dcfe8dec23d62e9e44256d49c063b2a0f90361b00271401de3c021e7e5593c99616c?subid_1=shengyican",
+"buyName": "Uber Eats"
+},
+{
+"id": "ue-pickup-first",
+"brand": "Uber Eats",
+"cat": "外送",
+"meals": [
+"午餐",
+"晚餐",
+"宵夜"
+],
+"title": "首筆外帶自取滿 149 元 4 折（單筆最高折 90 元）",
+"gift": "自取 4 折",
+"pct": 0.6,
+"how": "Uber Eats 選外帶自取，結帳輸入代碼",
+"code": "自取好省",
+"ends": "2026-11-30",
+"note": "只限第一次自取訂單",
+"src": "https://kb56.tw/uber-eats-coupon/",
+"mapq": "Uber Eats",
+"people": 1,
+"added": "2026-11-02",
+"checked": "2026-11-02",
+"buy": "https://vbtrax.com/track/clicks/4127/c627c2bc9b0428dcfe8dec23d62e9e44256d49c063b2a0f90361b00271401de3c021e7e5593c99616c?subid_1=shengyican",
+"buyName": "Uber Eats"
+},
+{
+"id": "ue-1115-miaoli",
+"brand": "Uber Eats",
+"cat": "外送",
+"meals": [
+"午餐",
+"晚餐",
+"宵夜"
+],
+"title": "苗栗縣限定：外送滿 149 元 6 折（最高折 60 元）",
+"gift": "6 折",
+"pct": 0.4,
+"how": "Uber Eats 結帳輸入代碼",
+"code": "十一點六",
+"ends": "2026-11-15",
+"regions": [
+"苗栗縣"
+],
+"src": "https://kb56.tw/uber-eats-coupon/",
+"mapq": "Uber Eats",
+"people": 1,
+"added": "2026-11-02",
+"checked": "2026-11-02",
+"buy": "https://vbtrax.com/track/clicks/4127/c627c2bc9b0428dcfe8dec23d62e9e44256d49c063b2a0f90361b00271401de3c021e7e5593c99616c?subid_1=shengyican",
+"buyName": "Uber Eats"
+},
+{
+"id": "ue-1115-changhua",
+"brand": "Uber Eats",
+"cat": "外送",
+"meals": [
+"午餐",
+"晚餐",
+"宵夜"
+],
+"title": "彰化縣限定：外送滿 149 元 6 折（最高折 60 元）",
+"gift": "6 折",
+"pct": 0.4,
+"how": "Uber Eats 結帳輸入代碼",
+"code": "十一好六",
+"ends": "2026-11-15",
+"regions": [
+"彰化縣"
+],
+"src": "https://kb56.tw/uber-eats-coupon/",
+"mapq": "Uber Eats",
+"people": 1,
+"added": "2026-11-02",
+"checked": "2026-11-02",
+"buy": "https://vbtrax.com/track/clicks/4127/c627c2bc9b0428dcfe8dec23d62e9e44256d49c063b2a0f90361b00271401de3c021e7e5593c99616c?subid_1=shengyican",
+"buyName": "Uber Eats"
+},
+{
+"id": "ue-1115-yunlin",
+"brand": "Uber Eats",
+"cat": "外送",
+"meals": [
+"午餐",
+"晚餐",
+"宵夜"
+],
+"title": "雲林縣限定：外送滿 149 元 6 折（最高折 60 元）",
+"gift": "6 折",
+"pct": 0.4,
+"how": "Uber Eats 結帳輸入代碼",
+"code": "十一喜六",
+"ends": "2026-11-15",
+"regions": [
+"雲林縣"
+],
+"src": "https://kb56.tw/uber-eats-coupon/",
+"mapq": "Uber Eats",
+"people": 1,
+"added": "2026-11-02",
+"checked": "2026-11-02",
+"buy": "https://vbtrax.com/track/clicks/4127/c627c2bc9b0428dcfe8dec23d62e9e44256d49c063b2a0f90361b00271401de3c021e7e5593c99616c?subid_1=shengyican",
+"buyName": "Uber Eats"
+},
+{
+"id": "ue-1115-nantou",
+"brand": "Uber Eats",
+"cat": "外送",
+"meals": [
+"午餐",
+"晚餐",
+"宵夜"
+],
+"title": "南投縣限定：外送滿 149 元 6 折（最高折 60 元）",
+"gift": "6 折",
+"pct": 0.4,
+"how": "Uber Eats 結帳輸入代碼",
+"code": "十一吃六",
+"ends": "2026-11-15",
+"regions": [
+"南投縣"
+],
+"src": "https://kb56.tw/uber-eats-coupon/",
+"mapq": "Uber Eats",
+"people": 1,
+"added": "2026-11-02",
+"checked": "2026-11-02",
+"buy": "https://vbtrax.com/track/clicks/4127/c627c2bc9b0428dcfe8dec23d62e9e44256d49c063b2a0f90361b00271401de3c021e7e5593c99616c?subid_1=shengyican",
+"buyName": "Uber Eats"
+},
+{
+"id": "ue-1115-tainan",
+"brand": "Uber Eats",
+"cat": "外送",
+"meals": [
+"午餐",
+"晚餐",
+"宵夜"
+],
+"title": "台南市限定：外送滿 149 元 6 折（最高折 60 元）",
+"gift": "6 折",
+"pct": 0.4,
+"how": "Uber Eats 結帳輸入代碼",
+"code": "十一要六",
+"ends": "2026-11-15",
+"regions": [
+"台南市"
+],
+"src": "https://kb56.tw/uber-eats-coupon/",
+"mapq": "Uber Eats",
+"people": 1,
+"added": "2026-11-02",
+"checked": "2026-11-02",
+"buy": "https://vbtrax.com/track/clicks/4127/c627c2bc9b0428dcfe8dec23d62e9e44256d49c063b2a0f90361b00271401de3c021e7e5593c99616c?subid_1=shengyican",
+"buyName": "Uber Eats"
+},
+{
+"id": "ue-1115-pingtung",
+"brand": "Uber Eats",
+"cat": "外送",
+"meals": [
+"午餐",
+"晚餐",
+"宵夜"
+],
+"title": "屏東縣限定：外送滿 149 元 6 折（最高折 60 元）",
+"gift": "6 折",
+"pct": 0.4,
+"how": "Uber Eats 結帳輸入代碼",
+"code": "十一狂六",
+"ends": "2026-11-15",
+"regions": [
+"屏東縣"
+],
+"src": "https://kb56.tw/uber-eats-coupon/",
+"mapq": "Uber Eats",
+"people": 1,
+"added": "2026-11-02",
+"checked": "2026-11-02",
+"buy": "https://vbtrax.com/track/clicks/4127/c627c2bc9b0428dcfe8dec23d62e9e44256d49c063b2a0f90361b00271401de3c021e7e5593c99616c?subid_1=shengyican",
+"buyName": "Uber Eats"
+},
+{
+"id": "ue-1115-yilan",
+"brand": "Uber Eats",
+"cat": "外送",
+"meals": [
+"午餐",
+"晚餐",
+"宵夜"
+],
+"title": "宜蘭縣限定：外送滿 149 元 6 折（最高折 60 元）",
+"gift": "6 折",
+"pct": 0.4,
+"how": "Uber Eats 結帳輸入代碼",
+"code": "十一省六",
+"ends": "2026-11-15",
+"regions": [
+"宜蘭縣"
+],
+"src": "https://kb56.tw/uber-eats-coupon/",
+"mapq": "Uber Eats",
+"people": 1,
+"added": "2026-11-02",
+"checked": "2026-11-02",
+"buy": "https://vbtrax.com/track/clicks/4127/c627c2bc9b0428dcfe8dec23d62e9e44256d49c063b2a0f90361b00271401de3c021e7e5593c99616c?subid_1=shengyican",
+"buyName": "Uber Eats"
+},
+{
+"id": "ue-1115-keelung",
+"brand": "Uber Eats",
+"cat": "外送",
+"meals": [
+"午餐",
+"晚餐",
+"宵夜"
+],
+"title": "基隆市限定：外送滿 149 元 75 折（最高折 40 元）",
+"gift": "75 折",
+"pct": 0.25,
+"how": "Uber Eats 結帳輸入代碼",
+"code": "秋享七五",
+"ends": "2026-11-15",
+"regions": [
+"基隆市"
+],
+"src": "https://kb56.tw/uber-eats-coupon/",
+"mapq": "Uber Eats",
+"people": 1,
+"added": "2026-11-02",
+"checked": "2026-11-02",
+"buy": "https://vbtrax.com/track/clicks/4127/c627c2bc9b0428dcfe8dec23d62e9e44256d49c063b2a0f90361b00271401de3c021e7e5593c99616c?subid_1=shengyican",
+"buyName": "Uber Eats"
+},
+{
+"id": "ue-1115-hualien",
+"brand": "Uber Eats",
+"cat": "外送",
+"meals": [
+"午餐",
+"晚餐",
+"宵夜"
+],
+"title": "花蓮縣限定：外送滿 149 元 75 折（最高折 40 元）",
+"gift": "75 折",
+"pct": 0.25,
+"how": "Uber Eats 結帳輸入代碼",
+"code": "秋訂七五",
+"ends": "2026-11-15",
+"regions": [
+"花蓮縣"
+],
+"src": "https://kb56.tw/uber-eats-coupon/",
+"mapq": "Uber Eats",
+"people": 1,
+"added": "2026-11-02",
+"checked": "2026-11-02",
+"buy": "https://vbtrax.com/track/clicks/4127/c627c2bc9b0428dcfe8dec23d62e9e44256d49c063b2a0f90361b00271401de3c021e7e5593c99616c?subid_1=shengyican",
+"buyName": "Uber Eats"
+},
+{
+"id": "ue-1115-taitung",
+"brand": "Uber Eats",
+"cat": "外送",
+"meals": [
+"午餐",
+"晚餐",
+"宵夜"
+],
+"title": "台東縣限定：外送滿 149 元 75 折（最高折 40 元）",
+"gift": "75 折",
+"pct": 0.25,
+"how": "Uber Eats 結帳輸入代碼",
+"code": "秋想七五",
+"ends": "2026-11-15",
+"regions": [
+"台東縣"
+],
+"src": "https://kb56.tw/uber-eats-coupon/",
+"mapq": "Uber Eats",
+"people": 1,
+"added": "2026-11-02",
+"checked": "2026-11-02",
+"buy": "https://vbtrax.com/track/clicks/4127/c627c2bc9b0428dcfe8dec23d62e9e44256d49c063b2a0f90361b00271401de3c021e7e5593c99616c?subid_1=shengyican",
+"buyName": "Uber Eats"
+},
+{
+"id": "ue-1115-penghu",
+"brand": "Uber Eats",
+"cat": "外送",
+"meals": [
+"午餐",
+"晚餐",
+"宵夜"
+],
+"title": "澎湖縣限定：外送滿 149 元 75 折（最高折 40 元）",
+"gift": "75 折",
+"pct": 0.25,
+"how": "Uber Eats 結帳輸入代碼",
+"code": "秋狂七五",
+"ends": "2026-11-15",
+"regions": [
+"澎湖縣"
+],
+"src": "https://kb56.tw/uber-eats-coupon/",
+"mapq": "Uber Eats",
+"people": 1,
+"added": "2026-11-02",
+"checked": "2026-11-02",
+"buy": "https://vbtrax.com/track/clicks/4127/c627c2bc9b0428dcfe8dec23d62e9e44256d49c063b2a0f90361b00271401de3c021e7e5593c99616c?subid_1=shengyican",
+"buyName": "Uber Eats"
+},
+{
+"id": "ue-1115-kinmen",
+"brand": "Uber Eats",
+"cat": "外送",
+"meals": [
+"午餐",
+"晚餐",
+"宵夜"
+],
+"title": "金門縣限定：外送滿 149 元 75 折（最高折 40 元）",
+"gift": "75 折",
+"pct": 0.25,
+"how": "Uber Eats 結帳輸入代碼",
+"code": "秋有七五",
+"ends": "2026-11-15",
+"regions": [
+"金門縣"
+],
+"src": "https://kb56.tw/uber-eats-coupon/",
+"mapq": "Uber Eats",
+"people": 1,
+"added": "2026-11-02",
+"checked": "2026-11-02",
+"buy": "https://vbtrax.com/track/clicks/4127/c627c2bc9b0428dcfe8dec23d62e9e44256d49c063b2a0f90361b00271401de3c021e7e5593c99616c?subid_1=shengyican",
+"buyName": "Uber Eats"
+},
+{
+"id": "ue-1115-chiayi",
+"brand": "Uber Eats",
+"cat": "外送",
+"meals": [
+"午餐",
+"晚餐",
+"宵夜"
+],
+"title": "嘉義市、嘉義縣限定：外送滿 149 元 6 折（最高折 60 元）",
+"gift": "6 折",
+"pct": 0.4,
+"how": "Uber Eats 結帳輸入代碼",
+"code": "十一飽六",
+"ends": "2026-11-15",
+"regions": [
+"嘉義市",
+"嘉義縣"
+],
+"src": "https://kb56.tw/uber-eats-coupon/",
+"mapq": "Uber Eats",
+"people": 1,
+"added": "2026-11-02",
+"checked": "2026-11-02",
+"buy": "https://vbtrax.com/track/clicks/4127/c627c2bc9b0428dcfe8dec23d62e9e44256d49c063b2a0f90361b00271401de3c021e7e5593c99616c?subid_1=shengyican",
+"buyName": "Uber Eats"
 }
 ],
 "removed": [
 {
-"brand": "DQ",
-"title": "指定暴風雪 5 折",
+"brand": "炸雞大獅",
+"title": "指定商品第二件 8 折",
+"why": "查不到最新消息"
+},
+{
+"brand": "全家",
+"title": "燒肉烤米堡（APP 領 69 折券）",
+"why": "已過期"
+},
+{
+"brand": "foodpanda",
+"title": "自取滿 100 元 7 折（最高折 30 元，可用 3 次）",
+"why": "查不到最新消息"
+},
+{
+"brand": "foodpanda",
+"title": "指定餐廳滿 360 元折 110 元（滿 260 折 80）",
+"why": "已過期"
+},
+{
+"brand": "肯德基",
+"title": "原味脆雞堡＋原味蛋撻＋小薯＋冰無糖綠茶",
+"why": "已過期"
+},
+{
+"brand": "肯德基",
+"title": "咔啦雞腿堡＋4 塊上校雞塊＋原味蛋撻＋冰無糖綠茶",
+"why": "已過期"
+},
+{
+"brand": "肯德基",
+"title": "$38 飲品 5 選 2",
+"why": "已過期"
+},
+{
+"brand": "肯德基",
+"title": "咔啦脆雞分享桶",
+"why": "查不到最新消息"
+},
+{
+"brand": "肯德基",
+"title": "咔啦雞腿堡＋4 塊雞塊＋可樂",
+"why": "查不到最新消息"
+},
+{
+"brand": "麥當勞",
+"title": "歡樂送單筆滿 300 元送中薯",
 "why": "已過期"
 },
 {
 "brand": "麥當勞",
-"title": "中薯：單筆滿 200 元免費送",
-"why": "和另一筆「APP 單筆滿 200 元送中薯」重複"
+"title": "得來速加 10 元多一份小薯",
+"why": "查不到最新消息"
+},
+{
+"brand": "麥當勞",
+"title": "得來速加 10 元多一份薯餅",
+"why": "查不到最新消息"
+},
+{
+"brand": "摩斯漢堡",
+"title": "萬聖節：蒟蒻飲品任選兩杯",
+"why": "已過期"
+},
+{
+"brand": "品川蘭",
+"title": "蘭·雪花牛肉麵買一送一",
+"why": "已過期"
+},
+{
+"brand": "三商巧福",
+"title": "牛三寶牛肉麵套餐（含小菜、中杯飲料）",
+"why": "已過期"
+},
+{
+"brand": "三商巧福",
+"title": "雪花牛肉乾拌麵套餐，加 1 元多一碗紅燒排骨麵",
+"why": "已過期"
+},
+{
+"brand": "Uber Eats",
+"title": "Uber One 會員滿 450 元免外送費和服務費（4 次）",
+"why": "已過期"
+},
+{
+"brand": "Uber Eats",
+"title": "Uber One 會員外帶自取滿 179 元 7 折（最高折 60 元，限 5 次）",
+"why": "已過期"
+},
+{
+"brand": "Uber Eats",
+"title": "彰化縣限定：外送滿 149 元 6 折（最高折 60 元）",
+"why": "已過期"
+},
+{
+"brand": "Uber Eats",
+"title": "雲林縣限定：外送滿 149 元 6 折（最高折 60 元）",
+"why": "已過期"
+},
+{
+"brand": "Uber Eats",
+"title": "基隆市限定：外送滿 149 元 75 折（最高折 40 元）",
+"why": "已過期"
+},
+{
+"brand": "Uber Eats",
+"title": "苗栗縣限定：外送滿 149 元 6 折（最高折 60 元）",
+"why": "已過期"
+},
+{
+"brand": "Uber Eats",
+"title": "屏東縣限定：外送滿 149 元 6 折（最高折 60 元）",
+"why": "已過期"
+},
+{
+"brand": "Uber Eats",
+"title": "宜蘭縣限定：外送滿 149 元 6 折（最高折 60 元）",
+"why": "已過期"
+},
+{
+"brand": "Uber Eats",
+"title": "南投縣限定：外送滿 149 元 6 折（最高折 60 元）",
+"why": "已過期"
+},
+{
+"brand": "Uber Eats",
+"title": "嘉義市、嘉義縣限定：外送滿 149 元 6 折（最高折 60 元）",
+"why": "已過期"
+},
+{
+"brand": "Uber Eats",
+"title": "台南市限定：外送滿 149 元 5 折（最高折 80 元）",
+"why": "已過期"
+},
+{
+"brand": "拿坡里",
+"title": "大披薩",
+"why": "已過期"
+},
+{
+"brand": "拿坡里",
+"title": "炸雞或烤雞 6 塊",
+"why": "已過期"
+},
+{
+"brand": "必勝客",
+"title": "大披薩 10 種口味任選",
+"why": "已過期"
+},
+{
+"brand": "TEA TOP 第一味",
+"title": "奶茶第二杯半價（北部 2 杯）",
+"why": "已過期"
+},
+{
+"brand": "成真咖啡",
+"title": "外帶咖啡飲品買一送一（190 元以下）",
+"why": "已過期"
+},
+{
+"brand": "早到晚到",
+"title": "紅茶、冷泡茶或小時候奶茶同品項買一送一",
+"why": "已過期"
+},
+{
+"brand": "茶詠春",
+"title": "單筆滿 200 元打 85 折",
+"why": "已過期"
+},
+{
+"brand": "晨間廚房",
+"title": "芋泥炸蛋餅 8 折",
+"why": "已過期"
+},
+{
+"brand": "泰滾mini",
+"title": "免收鍋底費",
+"why": "已過期"
+},
+{
+"brand": "賴山嶼麻辣燙",
+"title": "店內消費滿 300 元送氣泡飲",
+"why": "已過期"
+},
+{
+"brand": "壽司郎",
+"title": "野生南方黑鮪魚中腹",
+"why": "已過期"
+},
+{
+"brand": "Uber Eats",
+"title": "Uber One 會員滷味外帶自取 7 折（最高折 60 元，可用 5 次）",
+"why": "已過期"
+},
+{
+"brand": "Krispy Kreme",
+"title": "萬聖節限定甜甜圈 6 入",
+"why": "已過期"
+},
+{
+"brand": "Krispy Kreme",
+"title": "萬聖節限定甜甜圈 12 入",
+"why": "已過期"
+},
+{
+"brand": "頂呱呱",
+"title": "呱呱包雙入重量餐（呱呱包 2＋青花椒雞＋地瓜薯條＋甜甜包＋中可樂）",
+"why": "已過期"
+},
+{
+"brand": "麥當勞",
+"title": "APP 單筆滿 200 元送中薯",
+"why": "已過期"
+},
+{
+"brand": "麥當勞",
+"title": "中杯可樂或雪碧買一送一",
+"why": "已過期"
+},
+{
+"brand": "拿坡里",
+"title": "經典原味蛋塔 6 入",
+"why": "已過期"
+},
+{
+"brand": "7-11",
+"title": "CITY CAFE 特大杯拿鐵 10 杯",
+"why": "已過期"
+},
+{
+"brand": "7-11",
+"title": "CITY CAFE 特大杯美式 10 杯",
+"why": "已過期"
+},
+{
+"brand": "7-11",
+"title": "CITY CAFE 大杯濃萃美式 17 杯",
+"why": "已過期"
+},
+{
+"brand": "7-11",
+"title": "CITY CAFE 大杯濃萃拿鐵 17 杯",
+"why": "已過期"
+},
+{
+"brand": "萊爾富",
+"title": "Hi café 大杯特濃美式或拿鐵",
+"why": "已過期"
+},
+{
+"brand": "CoCo都可",
+"title": "省錢福利品：粉角奶茶 39 元、茉莉綠茶 29 元",
+"why": "已過期"
+},
+{
+"brand": "TEATOP第一味",
+"title": "奶茶第二杯半價",
+"why": "已過期"
+},
+{
+"brand": "繼光香香雞",
+"title": "沙嗲香脆組：沙嗲無骨腿丁＋印尼蝦餅",
+"why": "已過期"
+},
+{
+"brand": "繼光香香雞",
+"title": "沙嗲鮮香組：沙嗲無骨腿丁＋九層塔花枝丸",
+"why": "已過期"
+},
+{
+"brand": "摩斯漢堡",
+"title": "蒟蒻飲品任選 2 杯",
+"why": "已過期"
+},
+{
+"brand": "7-11",
+"title": "雷神巧克力聯名：脆脆甜甜圈、脆脆麵包、白雷神泡芙，第 2 件省 10 元",
+"why": "已過期"
+},
+{
+"brand": "福勝亭",
+"title": "開運豬排定食（20 週年價）",
+"why": "已過期"
+},
+{
+"brand": "羽葉麻辣火鍋",
+"title": "麻辣火鍋送 A5 和牛 2 份＋哈根達斯雪糕",
+"why": "已過期"
+},
+{
+"brand": "小川鍋物",
+"title": "點任一鍋物，150 元加購海鮮三品",
+"why": "已過期"
+},
+{
+"brand": "這一鍋",
+"title": "火鍋 4 人套餐 5 折（萬聖節變裝）",
+"why": "已過期"
+},
+{
+"brand": "肯德基",
+"title": "經典澎派桶：咔啦脆雞 6 塊＋原味蛋撻 6 入",
+"why": "已過期"
+},
+{
+"brand": "肯德基",
+"title": "無骨澎派桶：無骨雞腿霸 6 塊＋原味蛋撻 6 入＋沾醬",
+"why": "已過期"
+},
+{
+"brand": "foodpanda",
+"title": "滷味外帶自取滿 100 元 5 折（最高折 60 元）",
+"why": "已過期"
+},
+{
+"brand": "Uber Eats",
+"title": "滷味外帶自取滿 149 元 5 折（10/28 週三限定）",
+"why": "已過期"
+},
+{
+"brand": "7-11",
+"title": "CITY PRIMA 精品香椰厚拿鐵或燕麥拿鐵 10 杯",
+"why": "已過期"
+},
+{
+"brand": "7-11",
+"title": "黑糖珍珠撞奶、珍珠奶茶任選 10 杯",
+"why": "已過期"
+},
+{
+"brand": "7-11",
+"title": "CITY CAFE 大杯美式 2 杯 66 元、大杯拿鐵 2 杯 77 元",
+"why": "已過期"
+},
+{
+"brand": "萊爾富",
+"title": "大杯美式、重乳拿鐵、台茶18紅玉拿鐵買 10 送 10",
+"why": "已過期"
+},
+{
+"brand": "Uber Eats",
+"title": "花蓮縣限定：外送滿 149 元 75 折（最高折 40 元）",
+"why": "已過期"
+},
+{
+"brand": "Uber Eats",
+"title": "台東縣限定：外送滿 149 元 75 折（最高折 40 元）",
+"why": "已過期"
+},
+{
+"brand": "Uber Eats",
+"title": "澎湖縣限定：外送滿 149 元 75 折（最高折 40 元）",
+"why": "已過期"
+},
+{
+"brand": "Uber Eats",
+"title": "金門縣限定：外送滿 149 元 75 折（最高折 40 元）",
+"why": "已過期"
+},
+{
+"brand": "頂呱呱",
+"title": "呱呱包午茶組（限時最低 69 折）",
+"why": "已過期"
+},
+{
+"brand": "全家",
+"title": "Let's Café 大杯特濃美式、特濃拿鐵、厚濃抹茶拿鐵同品項買 2 送 2",
+"why": "已過期"
+},
+{
+"brand": "全家",
+"title": "Fami!ce 霜淇淋不限口味 2 支",
+"why": "已過期"
+},
+{
+"brand": "7-11",
+"title": "CITY PEARL 咖啡珍珠歐蕾 10 杯",
+"why": "已過期"
+},
+{
+"brand": "7-11",
+"title": "CITY TEA 香鑽水果茶 10 杯",
+"why": "已過期"
 }
 ]
 }
