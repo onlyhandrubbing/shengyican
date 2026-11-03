@@ -387,7 +387,7 @@ function foodIcon(d){
 function el(tag, cls, text){ const n = document.createElement(tag); if (cls) n.className = cls; if (text != null) n.textContent = text; return n; }
 function fmtEnd(d){ if (!d.ends) return (d.bday ? "生日月內，以券面效期為準" : "未公布，以官方為準") + (d.checked ? "（" + mmdd(d.checked) + " 確認仍有效）" : ""); const [, m, dd] = d.ends.split("-"); return Number(m) + " 月 " + Number(dd) + " 日"; }
 function howShort(d){
-  if (d.buy) return (d.buyName || "線上") + (d.buyName === "Uber Eats" ? " 下單" : " 買券");
+  if (d.buy) return (d.buyName || "線上") + (d.buyName === "Uber Eats" ? " 下單" : d.buyName === "肯德基" ? " 線上點" : " 買券");
   if (d.bday){ const h = d.how || ""; return /預約/.test(h) ? "先預約" : /LINE/.test(h) ? "LINE 會員" : /Ocard/.test(h) ? "Ocard 會員" : /APP/.test(h) ? "APP 會員" : "會員券"; }
   const h = d.how || "";
   if (/APP|app/.test(h) && /領/.test(h)) return "APP 領券";
@@ -548,7 +548,7 @@ function coupon(d){
   const acts = el("div", "acts");
   const map = el("a", "btn main"); map.href = mapUrl(d.mapq || d.brand); map.target = "_blank"; map.rel = "noopener";
   map.innerHTML = ICON.pin; map.appendChild(document.createTextNode(region ? region + "的門市" : "附近門市")); acts.appendChild(map);
-  if (d.buy){ const a = el("a", "btn buy"); a.href = d.buy; a.target = "_blank"; a.rel = "noopener sponsored"; a.innerHTML = ICON.bag; a.appendChild(document.createTextNode((d.buyName || "線上") + (d.buyName === "Uber Eats" ? " 下單" : " 購買"))); acts.appendChild(a); }
+  if (d.buy){ const a = el("a", "btn buy"); a.href = d.buy; a.target = "_blank"; a.rel = "noopener sponsored"; a.innerHTML = ICON.bag; a.appendChild(document.createTextNode((d.buyName || "線上") + (d.buyName === "Uber Eats" ? " 下單" : d.buyName === "肯德基" ? " 線上點" : " 購買"))); acts.appendChild(a); }
   if (d.code){ const c = el("button", "btn"); c.type = "button"; c.innerHTML = ICON.copy; c.appendChild(document.createTextNode("複製代碼")); c.onclick = () => copy(d.code); acts.appendChild(c); }
   if (d.src && d.src !== d.buy){ const s = el("a", "btn src", "資料來源"); s.href = d.src; s.target = "_blank"; s.rel = "noopener"; acts.appendChild(s); }
   if (!isReported(d)){ const r = el("button", "btn src rep", "這個優惠沒了？回報"); r.type = "button"; r.onclick = () => reportSheet(d); acts.appendChild(r); }
