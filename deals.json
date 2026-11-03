@@ -1,5 +1,5 @@
 {
-"updatedAt": "2026/11/03 13:37",
+"updatedAt": "2026/11/04 06:56",
 "deals": [
 {
 "brand": "漢堡王",
@@ -147,49 +147,6 @@
 "buyName": "肯德基"
 },
 {
-"brand": "肯德基",
-"cat": "漢堡速食",
-"code": "50475",
-"how": "點餐報優惠代碼",
-"mapq": "肯德基",
-"meals": [
-"午餐",
-"晚餐"
-],
-"note": "限部分門市；限時限店，輸入代碼沒出現代表該門市或時段不適用",
-"people": 1,
-"price": 89,
-"src": "https://dealy.tw/shop/kfcclub.com.tw",
-"title": "咔啦雞腿堡＋原味蛋撻",
-"id": "kfc-50475",
-"checked": "2026-10-23",
-"status": "pending",
-"buy": "https://twshop4coupon.com/track/clicks/9452/c627c2bc9b0720d8fe82ec23d62e9e44256d49c063b2a0f90e64b70771401de3c021e7e5593c99616c",
-"buyName": "肯德基"
-},
-{
-"brand": "肯德基",
-"cat": "炸雞",
-"code": "50476",
-"how": "點餐報優惠代碼",
-"mapq": "肯德基",
-"meals": [
-"晚餐",
-"宵夜"
-],
-"orig": 720,
-"people": 3,
-"price": 399,
-"src": "https://applealmond.com/posts/315897",
-"title": "咔啦脆雞分享桶＋原味蛋撻 6 入",
-"id": "kfc-50476",
-"checked": "2026-10-23",
-"note": "限時限店，輸入代碼沒出現代表該門市或時段不適用",
-"status": "pending",
-"buy": "https://twshop4coupon.com/track/clicks/9452/c627c2bc9b0720d8fe82ec23d62e9e44256d49c063b2a0f90e64b70771401de3c021e7e5593c99616c",
-"buyName": "肯德基"
-},
-{
 "brand": "金子半之助",
 "cat": "丼飯",
 "ends": "2026-11-12",
@@ -208,23 +165,6 @@
 },
 {
 "brand": "麥當勞",
-"cat": "外送",
-"ends": "2026-11-03",
-"gift": "買一送一",
-"how": "第一次用歡樂送點餐",
-"mapq": "麥當勞",
-"meals": [
-"午餐",
-"晚餐",
-"宵夜"
-],
-"people": 1,
-"src": "https://www.cashfeel.com.tw/article/%E6%9C%80%E6%96%B0-%E9%BA%A5%E7%95%B6%E5%8B%9E-%E5%84%AA%E6%83%A0-%E8%B2%B7%E4%B8%80%E9%80%81%E3%84%A7",
-"title": "歡樂送首購：中薯買一送一",
-"id": "mcd-delivery-first"
-},
-{
-"brand": "麥當勞",
 "cat": "漢堡速食",
 "ends": "2026-11-18",
 "gift": "送冰淇淋",
@@ -239,24 +179,6 @@
 "src": "https://www.mcdonalds.com/tw/zh-tw/whats-hot.html",
 "title": "記名悠遊卡付款滿 150 元送小蛋捲冰淇淋",
 "id": "mcd-easycard"
-},
-{
-"brand": "麥當勞",
-"cat": "漢堡速食",
-"ends": "2026-11-03",
-"gift": "送 4 塊雞塊",
-"how": "麥當勞 APP 領券後點餐",
-"mapq": "麥當勞",
-"meals": [
-"午餐",
-"晚餐",
-"宵夜"
-],
-"pay": "街口支付每週四、五滿 200 元回饋 5%（APP 點餐 8%）；APP 點餐刷國泰 CUBE 卡最高 12%（至 10/31）",
-"people": 1,
-"src": "https://www.cashfeel.com.tw/article/%E6%9C%80%E6%96%B0-%E9%BA%A5%E7%95%B6%E5%8B%9E-%E5%84%AA%E6%83%A0-%E8%B2%B7%E4%B8%80%E9%80%81%E3%84%A7",
-"title": "買指定經典超值全餐送 4 塊麥克雞塊",
-"id": "mcd-meal-nugget"
 },
 {
 "brand": "肯德基",
@@ -484,42 +406,6 @@
 "src": "https://udn.com/news/story/124378/9787481",
 "title": "青花椒炸雞 6 塊",
 "id": "ss-pepper6"
-},
-{
-"brand": "三商鮮五丼",
-"cat": "丼飯",
-"ends": "2026-11-03",
-"how": "三商i美食卡 APP 免費領券",
-"mapq": "三商鮮五丼",
-"meals": [
-"午餐",
-"晚餐"
-],
-"note": "10/21 前要先在 APP 領券",
-"orig": 240,
-"people": 1,
-"price": 158,
-"src": "https://www.ctee.com.tw/news/20261008700439-431401",
-"title": "咖哩脆雞丼套餐（含小菜、飲料）",
-"id": "sw-curry"
-},
-{
-"brand": "三商鮮五丼",
-"cat": "丼飯",
-"ends": "2026-11-03",
-"how": "三商i美食卡 APP 免費領券",
-"mapq": "三商鮮五丼",
-"meals": [
-"午餐",
-"晚餐"
-],
-"note": "10/21 前要先在 APP 領券",
-"orig": 409,
-"people": 2,
-"price": 270,
-"src": "https://www.ctee.com.tw/news/20261008700439-431401",
-"title": "雙人丼飯套餐：炸蝦豬排丼＋招牌牛丼＋滷豆腐＋飲料",
-"id": "sw-double"
 },
 {
 "brand": "麥當勞",
@@ -972,42 +858,6 @@
 "id": "bk-share199"
 },
 {
-"brand": "麥當勞",
-"cat": "漢堡速食",
-"meals": [
-"早餐",
-"午餐",
-"晚餐",
-"宵夜"
-],
-"title": "手機點餐首購滿 150 元送 4 塊麥克雞塊",
-"gift": "送 4 塊雞塊",
-"how": "第一次用麥當勞 APP 手機點餐",
-"ends": "2026-11-03",
-"src": "https://www.beauty321.com/amp/post/73486",
-"people": 1,
-"mapq": "麥當勞",
-"id": "mcd-app-first"
-},
-{
-"brand": "麥當勞",
-"cat": "漢堡速食",
-"meals": [
-"午餐",
-"晚餐",
-"宵夜"
-],
-"title": "星級遊戲：集幣抽 1+1 星級點 69 元組合券",
-"gift": "抽 69 元組合",
-"how": "到指定地點掃描星級幣 QR Code 累積，集滿可抽",
-"ends": "2026-11-03",
-"note": "券可用到 12/31，送完提前結束",
-"src": "https://www.beauty321.com/amp/post/73486",
-"people": 1,
-"mapq": "麥當勞",
-"id": "mcd-star69"
-},
-{
 "brand": "哈根達斯",
 "cat": "冰品",
 "meals": [
@@ -1064,42 +914,6 @@
 "src": "https://www.beauty321.com/post/73497",
 "mapq": "CoCo都可",
 "id": "coco-fp-bogo"
-},
-{
-"brand": "藏壽司",
-"cat": "壽司",
-"meals": [
-"午餐",
-"晚餐"
-],
-"title": "焦香奶油淋醬燒炙鮭魚肚（限時價）",
-"price": 40,
-"how": "門市點餐",
-"note": "結束日未公布",
-"src": "https://ctinews.com/news/items/rbW4mVYgaL",
-"people": 1,
-"mapq": "藏壽司",
-"id": "kura-salmon40",
-"checked": "2026-10-23",
-"status": "pending"
-},
-{
-"brand": "藏壽司",
-"cat": "壽司",
-"meals": [
-"午餐",
-"晚餐"
-],
-"title": "人氣海老三貫",
-"price": 60,
-"how": "門市點餐",
-"note": "結束日未公布",
-"src": "https://ctinews.com/news/items/rbW4mVYgaL",
-"people": 1,
-"mapq": "藏壽司",
-"id": "kura-shrimp60",
-"checked": "2026-10-23",
-"status": "pending"
 },
 {
 "brand": "肯德基",
@@ -1174,48 +988,6 @@
 "note": "單杯 39 元；原價以單杯 39 元乘 2 推算",
 "src": "https://supertaste.tvbs.com.tw/pack/362009",
 "mapq": "OK超商"
-},
-{
-"id": "711-izhenshi",
-"brand": "7-11",
-"cat": "便當",
-"meals": [
-"午餐",
-"晚餐",
-"宵夜"
-],
-"title": "便當、飯糰、麵食即期品 i珍食 65 折",
-"pct": 0.35,
-"gift": "65 折",
-"people": 1,
-"how": "OPENPOINT APP「i珍食地圖」查附近門市庫存，到店直接結帳",
-"note": "賞味期限前 8 小時起打折，品項和數量看門市；部分支付優惠不能併用",
-"src": "https://www.money101.com.tw/blog/%E8%B6%85%E5%95%86-%E9%AE%AE%E9%A3%9F-%E7%89%B9%E5%83%B9%E6%99%82%E6%AE%B5",
-"mapq": "7-11",
-"icon": "bento",
-"status": "pending",
-"checked": "2026-10-22"
-},
-{
-"id": "fm-friendly",
-"brand": "全家",
-"cat": "便當",
-"meals": [
-"午餐",
-"晚餐",
-"宵夜"
-],
-"title": "便當、飯糰、麵食即期品友善食光 7 折",
-"pct": 0.3,
-"gift": "7 折",
-"people": 1,
-"how": "全家 APP「地圖趣」查友善食光庫存，到店直接結帳",
-"note": "效期前 7 小時起打折，常見 10:00、17:00 後出現；品項看門市",
-"src": "https://www.money101.com.tw/blog/%E8%B6%85%E5%95%86-%E9%AE%AE%E9%A3%9F-%E7%89%B9%E5%83%B9%E6%99%82%E6%AE%B5",
-"mapq": "全家",
-"icon": "bento",
-"status": "pending",
-"checked": "2026-10-22"
 },
 {
 "id": "bd-mcd",
@@ -1312,7 +1084,8 @@
 "note": "單筆限用一張，不能和其他優惠併用",
 "src": "https://supertaste.tvbs.com.tw/food/361502",
 "mapq": "德克士",
-"bday": true
+"bday": true,
+"status": "pending"
 },
 {
 "id": "bd-ss-chicken",
@@ -1642,28 +1415,6 @@
 "hot": true
 },
 {
-"id": "fm-taro-sweets",
-"brand": "全家",
-"cat": "甜點",
-"meals": [
-"午餐",
-"晚餐",
-"宵夜"
-],
-"title": "芋泥生甜甜圈、芋頭水晶蛋糕（minimore × 主廚陳星緯）",
-"gift": "新品",
-"how": "門市直接買",
-"note": "10/14 起陸續上架，價格以門市為準；另有滿滿奶霜芋頭、紅豆麵包",
-"src": "https://n.yam.com/Article/20261014286323",
-"mapq": "全家",
-"icon": "donut",
-"hot": true,
-"people": 1,
-"added": "2026-10-22",
-"checked": "2026-10-22",
-"status": "pending"
-},
-{
 "id": "zhenzhudan-buckwheat",
 "brand": "珍煮丹",
 "cat": "飲料",
@@ -1684,28 +1435,6 @@
 "people": 1,
 "added": "2026-10-22",
 "checked": "2026-10-22"
-},
-{
-"id": "711-huaweiniao",
-"brand": "7-11",
-"cat": "超商",
-"meals": [
-"早餐",
-"午餐",
-"晚餐"
-],
-"title": "華味鳥聯名：極致棉芯蛋 55 元、博多風味炙烤雞腿排丼 119 元",
-"price": 55,
-"how": "門市直接買",
-"note": "9/28 開賣，賣完為止",
-"src": "https://dailyview.tw/popular/detail/33794",
-"mapq": "7-11",
-"icon": "egg",
-"hot": true,
-"people": 1,
-"added": "2026-10-22",
-"checked": "2026-10-22",
-"status": "pending"
 },
 {
 "id": "tkk-monsters",
@@ -1730,28 +1459,6 @@
 "checked": "2026-10-23"
 },
 {
-"id": "dominos-yakiniku",
-"brand": "達美樂",
-"cat": "披薩",
-"meals": [
-"午餐",
-"晚餐",
-"宵夜"
-],
-"title": "乾杯燒肉聯名：和牛御豚燒肉大披薩，外帶 5 折起",
-"price": 449,
-"pct": 0.5,
-"how": "外帶點餐",
-"note": "燒肉澎湃套餐 899 元；活動期間請以達美樂公告為準，確認",
-"src": "https://cava.tw/lifestyle/travel-food/267383",
-"mapq": "達美樂",
-"hot": true,
-"people": 1,
-"added": "2026-10-23",
-"checked": "2026-10-23",
-"status": "pending"
-},
-{
 "id": "hilife-tsujiri",
 "brand": "萊爾富",
 "cat": "飲料",
@@ -1765,13 +1472,14 @@
 "orig": 140,
 "people": 2,
 "how": "門市點購，限當場領取",
-"note": "平均每杯 35 元；期限未公布，確認",
-"src": "https://www.ettoday.net/news/20261017/3255962.htm",
+"note": "平均每杯 35 元",
+"src": "https://supertaste.tvbs.com.tw/food/362115",
 "mapq": "萊爾富",
 "icon": "tea",
 "hot": true,
 "added": "2026-10-23",
-"checked": "2026-10-23"
+"checked": "2026-11-04",
+"ends": "2026-11-10"
 },
 {
 "id": "sq-coffee-pork-rice",
@@ -1943,25 +1651,6 @@
 "checked": "2026-10-23"
 },
 {
-"id": "bodoyi-hawaii-bogo",
-"brand": "薄多義",
-"cat": "披薩",
-"meals": [
-"午餐",
-"晚餐"
-],
-"title": "夏威夷披薩外帶買一送一",
-"gift": "買一送一",
-"pct": 0.5,
-"people": 2,
-"how": "外帶點餐",
-"ends": "2026-11-03",
-"src": "https://info.talk.tw/buy-one-get-one/",
-"mapq": "薄多義",
-"added": "2026-10-23",
-"checked": "2026-10-23"
-},
-{
 "id": "bk-peanut-double",
 "brand": "漢堡王",
 "cat": "漢堡速食",
@@ -2031,17 +1720,18 @@
 "晚餐",
 "宵夜"
 ],
-"title": "咔啦脆雞 2 塊＋原味蛋撻 1 顆（個人獨享餐）",
+"title": "咔啦脆雞 2 塊＋原味蛋撻 1 顆（個人餐）",
 "price": 111,
-"how": "門市點餐",
-"note": "另有青花椒香麻脆雞 2 塊＋小杯無糖綠茶、原味蛋撻 2 顆＋上校雞塊 8 塊，同樣 111 元；結束日未公布，確認",
-"src": "https://www.chinatimes.com/realtimenews/20261028002191-260405",
+"how": "點餐報優惠代碼，或官網輸入",
+"src": "https://supertaste.tvbs.com.tw/pack/362231",
 "mapq": "肯德基",
 "people": 1,
 "added": "2026-11-02",
-"checked": "2026-11-02",
+"checked": "2026-11-04",
 "buy": "https://twshop4coupon.com/track/clicks/9452/c627c2bc9b0720d8fe82ec23d62e9e44256d49c063b2a0f90e64b70771401de3c021e7e5593c99616c",
-"buyName": "肯德基"
+"buyName": "肯德基",
+"code": "50560",
+"ends": "2026-11-23"
 },
 {
 "id": "kfc-bogo-1123",
@@ -2084,26 +1774,6 @@
 "src": "https://www.chinatimes.com/realtimenews/20261028002191-260405",
 "mapq": "拿坡里",
 "icon": "drumstick",
-"added": "2026-11-02",
-"checked": "2026-11-02"
-},
-{
-"id": "mcd-app-meal-fries",
-"brand": "麥當勞",
-"cat": "漢堡速食",
-"meals": [
-"午餐",
-"晚餐",
-"宵夜"
-],
-"title": "超值全餐送小薯（APP 優惠券）",
-"gift": "送小薯",
-"how": "麥當勞 APP 領券點餐",
-"ends": "2026-11-03",
-"note": "早餐時段買經典滿福或陽光蛋堡系列送薯餅",
-"src": "https://www.chinatimes.com/realtimenews/20261028002191-260405",
-"mapq": "麥當勞",
-"people": 1,
 "added": "2026-11-02",
 "checked": "2026-11-02"
 },
@@ -2188,7 +1858,7 @@
 "hot": true,
 "people": 1,
 "added": "2026-11-02",
-"checked": "2026-11-02"
+"checked": "2026-11-04"
 },
 {
 "id": "marugame-eggy",
@@ -2919,83 +2589,422 @@
 "people": 1,
 "added": "2026-11-03",
 "checked": "2026-11-03"
+},
+{
+"id": "kfc-50495",
+"brand": "肯德基",
+"cat": "炸雞",
+"meals": [
+"午餐",
+"晚餐",
+"宵夜"
+],
+"title": "青花椒香麻脆雞 2 塊＋小杯冰無糖綠茶（個人餐）",
+"price": 111,
+"code": "50495",
+"how": "點餐報優惠代碼，或官網輸入",
+"ends": "2026-11-23",
+"src": "https://supertaste.tvbs.com.tw/pack/362231",
+"mapq": "肯德基",
+"people": 1,
+"added": "2026-11-04",
+"checked": "2026-11-04",
+"buy": "https://twshop4coupon.com/track/clicks/9452/c627c2bc9b0720d8fe82ec23d62e9e44256d49c063b2a0f90e64b70771401de3c021e7e5593c99616c",
+"buyName": "肯德基"
+},
+{
+"id": "kfc-50562",
+"brand": "肯德基",
+"cat": "炸雞",
+"meals": [
+"午餐",
+"晚餐",
+"宵夜"
+],
+"title": "上校雞塊 8 塊＋原味蛋撻 2 顆（個人餐）",
+"price": 111,
+"code": "50562",
+"how": "點餐報優惠代碼，或官網輸入",
+"ends": "2026-11-23",
+"src": "https://supertaste.tvbs.com.tw/pack/362231",
+"mapq": "肯德基",
+"icon": "nuggets",
+"people": 1,
+"added": "2026-11-04",
+"checked": "2026-11-04",
+"buy": "https://twshop4coupon.com/track/clicks/9452/c627c2bc9b0720d8fe82ec23d62e9e44256d49c063b2a0f90e64b70771401de3c021e7e5593c99616c",
+"buyName": "肯德基"
+},
+{
+"id": "kfc-50563",
+"brand": "肯德基",
+"cat": "炸雞",
+"meals": [
+"午餐",
+"晚餐",
+"宵夜"
+],
+"title": "咔啦脆雞 6 塊＋原味蛋撻 2 顆（分享餐）",
+"price": 299,
+"people": 3,
+"code": "50563",
+"how": "點餐報優惠代碼，或官網輸入",
+"ends": "2026-11-16",
+"src": "https://supertaste.tvbs.com.tw/pack/362231",
+"mapq": "肯德基",
+"added": "2026-11-04",
+"checked": "2026-11-04",
+"buy": "https://twshop4coupon.com/track/clicks/9452/c627c2bc9b0720d8fe82ec23d62e9e44256d49c063b2a0f90e64b70771401de3c021e7e5593c99616c",
+"buyName": "肯德基"
+},
+{
+"id": "kfc-50564",
+"brand": "肯德基",
+"cat": "炸雞",
+"meals": [
+"午餐",
+"晚餐",
+"宵夜"
+],
+"title": "爆脆雞腿霸 6 塊＋南洋沾醬＋原味蛋撻 2 顆（分享餐）",
+"price": 299,
+"people": 3,
+"code": "50564",
+"how": "點餐報優惠代碼，或官網輸入",
+"ends": "2026-11-16",
+"src": "https://supertaste.tvbs.com.tw/pack/362231",
+"mapq": "肯德基",
+"added": "2026-11-04",
+"checked": "2026-11-04",
+"buy": "https://twshop4coupon.com/track/clicks/9452/c627c2bc9b0720d8fe82ec23d62e9e44256d49c063b2a0f90e64b70771401de3c021e7e5593c99616c",
+"buyName": "肯德基"
+},
+{
+"id": "kfc-16125",
+"brand": "肯德基",
+"cat": "甜點",
+"meals": [
+"早餐",
+"午餐",
+"晚餐",
+"宵夜"
+],
+"title": "原味蛋撻＋小杯冰無糖綠茶",
+"price": 50,
+"orig": 82,
+"code": "16125",
+"how": "點餐報優惠代碼，或官網輸入",
+"ends": "2026-11-30",
+"note": "部分門市不適用，確認",
+"src": "https://info.talk.tw/kfc-coupon/",
+"mapq": "肯德基",
+"people": 1,
+"added": "2026-11-04",
+"checked": "2026-11-04",
+"buy": "https://twshop4coupon.com/track/clicks/9452/c627c2bc9b0720d8fe82ec23d62e9e44256d49c063b2a0f90e64b70771401de3c021e7e5593c99616c",
+"buyName": "肯德基"
+},
+{
+"id": "kfc-16866",
+"brand": "肯德基",
+"cat": "漢堡速食",
+"meals": [
+"午餐",
+"晚餐",
+"宵夜"
+],
+"title": "咔啦雞腿堡＋小杯百事可樂",
+"price": 88,
+"orig": 128,
+"code": "16866",
+"how": "點餐報優惠代碼，或官網輸入",
+"ends": "2027-02-28",
+"note": "新竹湖口門市不適用",
+"src": "https://info.talk.tw/kfc-coupon/",
+"mapq": "肯德基",
+"people": 1,
+"added": "2026-11-04",
+"checked": "2026-11-04",
+"buy": "https://twshop4coupon.com/track/clicks/9452/c627c2bc9b0720d8fe82ec23d62e9e44256d49c063b2a0f90e64b70771401de3c021e7e5593c99616c",
+"buyName": "肯德基"
+},
+{
+"id": "kfc-16880",
+"brand": "肯德基",
+"cat": "炸雞",
+"meals": [
+"午餐",
+"晚餐",
+"宵夜"
+],
+"title": "青花椒咔啦脆雞＋咔啦脆雞＋經典冰奶茶",
+"price": 118,
+"orig": 180,
+"code": "16880",
+"how": "點餐報優惠代碼，或官網輸入",
+"ends": "2027-04-30",
+"note": "新竹湖口、台北復興南門市不適用",
+"src": "https://info.talk.tw/kfc-coupon/",
+"mapq": "肯德基",
+"people": 1,
+"added": "2026-11-04",
+"checked": "2026-11-04",
+"buy": "https://twshop4coupon.com/track/clicks/9452/c627c2bc9b0720d8fe82ec23d62e9e44256d49c063b2a0f90e64b70771401de3c021e7e5593c99616c",
+"buyName": "肯德基"
+},
+{
+"id": "dominos-760461",
+"brand": "達美樂",
+"cat": "披薩",
+"meals": [
+"午餐",
+"晚餐",
+"宵夜"
+],
+"title": "大披薩買大送大（外帶）",
+"gift": "買一送一",
+"pct": 0.5,
+"people": 4,
+"code": "760461",
+"how": "外帶點餐輸入代碼",
+"ends": "2026-11-29",
+"note": "送麥塊地下城 2 聯名盲卡包 2 包，送完為止",
+"src": "https://supertaste.tvbs.com.tw/pack/362231",
+"mapq": "達美樂",
+"hot": true,
+"added": "2026-11-04",
+"checked": "2026-11-04"
+},
+{
+"id": "dominos-085063",
+"brand": "達美樂",
+"cat": "披薩",
+"meals": [
+"午餐",
+"晚餐",
+"宵夜"
+],
+"title": "精選大披薩（外帶）",
+"price": 299,
+"people": 2,
+"code": "085063",
+"how": "外帶點餐輸入代碼",
+"ends": "2026-11-29",
+"note": "送聯名盲卡包 1 包",
+"src": "https://supertaste.tvbs.com.tw/pack/362231",
+"mapq": "達美樂",
+"added": "2026-11-04",
+"checked": "2026-11-04"
+},
+{
+"id": "dominos-994349",
+"brand": "達美樂",
+"cat": "披薩",
+"meals": [
+"午餐",
+"晚餐",
+"宵夜"
+],
+"title": "經典大披薩 3 個",
+"price": 799,
+"people": 6,
+"code": "994349",
+"how": "外帶或外送輸入代碼",
+"ends": "2026-11-29",
+"note": "部分口味換購要加價；送聯名盲卡包 3 包",
+"src": "https://supertaste.tvbs.com.tw/pack/362231",
+"mapq": "達美樂",
+"added": "2026-11-04",
+"checked": "2026-11-04"
+},
+{
+"id": "mos-tue-coffee49",
+"brand": "摩斯漢堡",
+"cat": "飲料",
+"meals": [
+"早餐",
+"午餐"
+],
+"title": "大杯摩斯咖啡（每週二限定）",
+"price": 49,
+"how": "週二門市點餐",
+"ends": "2026-12-31",
+"note": "升級精選咖啡加 10 元",
+"src": "https://supertaste.tvbs.com.tw/pack/362231",
+"mapq": "摩斯漢堡",
+"icon": "coffee",
+"people": 1,
+"added": "2026-11-04",
+"checked": "2026-11-04"
+},
+{
+"id": "mos-pork-coffee89",
+"brand": "摩斯漢堡",
+"cat": "早餐店",
+"meals": [
+"早餐"
+],
+"title": "摩斯豬排堡＋中杯摩斯咖啡",
+"price": 89,
+"how": "早餐時段門市點餐",
+"ends": "2026-12-31",
+"note": "加 20 元可買 3 個方塊薯餅",
+"src": "https://supertaste.tvbs.com.tw/pack/362231",
+"mapq": "摩斯漢堡",
+"people": 1,
+"added": "2026-11-04",
+"checked": "2026-11-04"
+},
+{
+"id": "simplemart-coffee69",
+"brand": "美廉社",
+"cat": "超商",
+"meals": [
+"早餐",
+"午餐"
+],
+"title": "特大杯經典美式＋日本風味餅乾",
+"price": 69,
+"how": "門市結帳",
+"ends": "2026-11-24",
+"note": "數量有限",
+"src": "https://supertaste.tvbs.com.tw/pack/362231",
+"mapq": "美廉社",
+"icon": "coffee",
+"people": 1,
+"added": "2026-11-04",
+"checked": "2026-11-04"
+},
+{
+"id": "711-any4-75",
+"brand": "7-11",
+"cat": "超商",
+"meals": [
+"早餐",
+"午餐",
+"晚餐",
+"宵夜"
+],
+"title": "指定商品任 4 件 75 折",
+"gift": "75 折",
+"pct": 0.25,
+"people": 1,
+"how": "門市結帳",
+"ends": "2026-11-09",
+"note": "CITY 系列、泡麵、零食、冰品等指定品項",
+"src": "https://news.tvbs.com.tw/life/4044546",
+"mapq": "7-11",
+"icon": "onigiri",
+"added": "2026-11-04",
+"checked": "2026-11-04"
+},
+{
+"id": "fm-inari-1104",
+"brand": "全家",
+"cat": "壽司",
+"meals": [
+"午餐",
+"晚餐"
+],
+"title": "日本稻荷壽司 69 折（壽司日）",
+"gift": "69 折",
+"pct": 0.31,
+"how": "門市結帳",
+"ends": "2026-11-04",
+"note": "只限 11/4 當天",
+"src": "https://news.tvbs.com.tw/life/4044546",
+"mapq": "全家",
+"icon": "sushi",
+"people": 1,
+"added": "2026-11-04",
+"checked": "2026-11-04"
 }
 ],
 "removed": [
 {
-"brand": "摩斯漢堡",
-"title": "歡聚週週省：指定套餐第一套 9 折、第二套 65 折",
-"why": "已過期"
-},
-{
-"brand": "Q Burger",
-"title": "HAPPY 50：主餐＋紅茶 50 元",
-"why": "查不到最新消息"
-},
-{
-"brand": "Mister Donut",
-"title": "閉店前一小時甜甜圈買 2 送 1",
-"why": "查不到最新消息"
-},
-{
-"brand": "50嵐",
-"title": "非純茶飲料買 5 送 1",
-"why": "查不到最新消息"
-},
-{
-"brand": "這一小鍋",
-"title": "身分證字號有 1 或 0 送梅花豬肉；兩個都有主餐 8 折",
-"why": "查不到最新消息"
-},
-{
-"brand": "foodpanda",
-"title": "滷味外帶自取 7 折（最高折 30 元，可用 3 次）",
-"why": "查不到最新消息"
-},
-{
-"brand": "全家",
-"title": "uno 義大利麵＋指定無咖啡因飲品",
+"brand": "肯德基",
+"title": "咔啦雞腿堡＋原味蛋撻",
 "why": "查不到最新消息"
 },
 {
 "brand": "肯德基",
-"title": "原味蛋撻 2 入",
+"title": "咔啦脆雞分享桶＋原味蛋撻 6 入",
+"why": "查不到最新消息"
+},
+{
+"brand": "麥當勞",
+"title": "歡樂送首購：中薯買一送一",
+"why": "已過期"
+},
+{
+"brand": "麥當勞",
+"title": "買指定經典超值全餐送 4 塊麥克雞塊",
+"why": "已過期"
+},
+{
+"brand": "三商鮮五丼",
+"title": "咖哩脆雞丼套餐（含小菜、飲料）",
+"why": "已過期"
+},
+{
+"brand": "三商鮮五丼",
+"title": "雙人丼飯套餐：炸蝦豬排丼＋招牌牛丼＋滷豆腐＋飲料",
+"why": "已過期"
+},
+{
+"brand": "麥當勞",
+"title": "手機點餐首購滿 150 元送 4 塊麥克雞塊",
+"why": "已過期"
+},
+{
+"brand": "麥當勞",
+"title": "星級遊戲：集幣抽 1+1 星級點 69 元組合券",
+"why": "已過期"
+},
+{
+"brand": "藏壽司",
+"title": "焦香奶油淋醬燒炙鮭魚肚（限時價）",
+"why": "官方已結束"
+},
+{
+"brand": "藏壽司",
+"title": "人氣海老三貫",
+"why": "官方已結束"
+},
+{
+"brand": "7-11",
+"title": "便當、飯糰、麵食即期品 i珍食 65 折",
 "why": "查不到最新消息"
 },
 {
 "brand": "全家",
-"title": "霜淇淋晚間特價",
+"title": "便當、飯糰、麵食即期品友善食光 7 折",
 "why": "查不到最新消息"
 },
 {
-"brand": "必勝客",
-"title": "經典原味蛋撻 6 顆，送紅豆奶皇蛋撻 6 顆",
-"why": "已過期"
-},
-{
-"brand": "必勝客",
-"title": "萬聖節香辣麻奶火山濃起司漢堡排比薩",
-"why": "已過期"
-},
-{
-"brand": "肯德基",
-"title": "蛋撻雙口味禮盒：原味 3 顆＋闇黑之吻蛋撻 3 顆",
-"why": "已過期"
-},
-{
-"brand": "德克士",
-"title": "黑金系列任一品項，對店員扮鬼臉送紫金 QQ 球",
-"why": "已過期"
-},
-{
-"brand": "必勝客",
-"title": "芋霸不能火山比薩（甜比薩）",
-"why": "已過期"
-},
-{
-"brand": "Q Burger",
-"title": "萬聖節可朗芙、造型吐司和蜂蜜蛋餅新品",
+"brand": "全家",
+"title": "芋泥生甜甜圈、芋頭水晶蛋糕（minimore × 主廚陳星緯）",
 "why": "話題已退燒"
+},
+{
+"brand": "7-11",
+"title": "華味鳥聯名：極致棉芯蛋 55 元、博多風味炙烤雞腿排丼 119 元",
+"why": "話題已退燒"
+},
+{
+"brand": "達美樂",
+"title": "乾杯燒肉聯名：和牛御豚燒肉大披薩，外帶 5 折起",
+"why": "話題已退燒"
+},
+{
+"brand": "薄多義",
+"title": "夏威夷披薩外帶買一送一",
+"why": "已過期"
+},
+{
+"brand": "麥當勞",
+"title": "超值全餐送小薯（APP 優惠券）",
+"why": "已過期"
 }
 ]
 }
