@@ -1,5 +1,5 @@
 {
-"updatedAt": "2026/11/04 06:56",
+"updatedAt": "2026/11/05 06:54",
 "deals": [
 {
 "brand": "漢堡王",
@@ -353,59 +353,6 @@
 "src": "https://cpok.tw/49105",
 "title": "摩斯鱈魚堡＋雞塊 4 塊＋月亮薯條＋大杯冰紅茶",
 "id": "mos-seat-189"
-},
-{
-"brand": "三商炸雞",
-"cat": "炸雞",
-"ends": "2026-11-04",
-"how": "內用或外帶，外送平台不適用",
-"mapq": "三商炸雞",
-"meals": [
-"午餐",
-"晚餐",
-"宵夜"
-],
-"orig": 650,
-"people": 3,
-"price": 325,
-"src": "https://udn.com/news/story/124378/9787481",
-"title": "炸雞桶買 5 送 5（10 塊）",
-"id": "ss-10pc"
-},
-{
-"brand": "三商炸雞",
-"cat": "炸雞",
-"ends": "2026-11-04",
-"how": "內用或外帶",
-"mapq": "三商炸雞",
-"meals": [
-"午餐",
-"晚餐"
-],
-"orig": 194,
-"people": 1,
-"price": 99,
-"src": "https://udn.com/news/story/124378/9787481",
-"title": "刈包＋雞翅＋飲料個人套餐",
-"id": "ss-99set"
-},
-{
-"brand": "三商炸雞",
-"cat": "炸雞",
-"ends": "2026-11-04",
-"how": "內用或外帶",
-"mapq": "三商炸雞",
-"meals": [
-"午餐",
-"晚餐",
-"宵夜"
-],
-"orig": 420,
-"people": 2,
-"price": 199,
-"src": "https://udn.com/news/story/124378/9787481",
-"title": "青花椒炸雞 6 塊",
-"id": "ss-pepper6"
 },
 {
 "brand": "麥當勞",
@@ -1068,26 +1015,6 @@
 "checked": "2026-11-03"
 },
 {
-"id": "bd-dicos",
-"brand": "德克士",
-"cat": "炸雞",
-"meals": [
-"午餐",
-"晚餐",
-"宵夜"
-],
-"title": "5 塊炸雞桶 5 折券 2 張（原味、辣味各一）",
-"price": 188,
-"orig": 375,
-"people": 2,
-"how": "德克士 LINE 會員綁定並填生日，生日當月發券",
-"note": "單筆限用一張，不能和其他優惠併用",
-"src": "https://supertaste.tvbs.com.tw/food/361502",
-"mapq": "德克士",
-"bday": true,
-"status": "pending"
-},
-{
 "id": "bd-ss-chicken",
 "brand": "三商炸雞",
 "cat": "炸雞",
@@ -1105,7 +1032,8 @@
 "mapq": "三商炸雞",
 "icon": "drumstick",
 "bday": true,
-"people": 1
+"people": 1,
+"status": "pending"
 },
 {
 "id": "bd-sq",
@@ -1897,27 +1825,6 @@
 "note": "精品美式平均每杯 50 元",
 "src": "https://www.ettoday.net/news/20261102/3264636.htm",
 "mapq": "7-11",
-"icon": "coffee",
-"added": "2026-11-02",
-"checked": "2026-11-02"
-},
-{
-"id": "fm-coffee-bogo-1104",
-"brand": "全家",
-"cat": "超商",
-"meals": [
-"早餐",
-"午餐"
-],
-"title": "大杯單品美式、單品拿鐵買一送一",
-"gift": "買一送一",
-"pct": 0.5,
-"people": 2,
-"how": "門市結帳",
-"ends": "2026-11-04",
-"note": "燒燒仙草、芝麻糊、霜淇淋、酷繽果同期間也買一送一",
-"src": "https://www.ettoday.net/news/20261102/3264636.htm",
-"mapq": "全家",
 "icon": "coffee",
 "added": "2026-11-02",
 "checked": "2026-11-02"
@@ -2899,111 +2806,99 @@
 "checked": "2026-11-04"
 },
 {
-"id": "fm-inari-1104",
+"id": "fm-cherry-softserve5",
 "brand": "全家",
-"cat": "壽司",
+"cat": "冰品",
 "meals": [
 "午餐",
-"晚餐"
+"晚餐",
+"宵夜"
 ],
-"title": "日本稻荷壽司 69 折（壽司日）",
-"gift": "69 折",
-"pct": 0.31,
+"title": "櫻桃巧克力霜淇淋（新口味）5 支快閃價",
+"price": 188,
+"people": 5,
 "how": "門市結帳",
-"ends": "2026-11-04",
-"note": "只限 11/4 當天",
-"src": "https://news.tvbs.com.tw/life/4044546",
+"ends": "2026-11-07",
+"note": "11/5–11/7 限定；買霜淇淋送崔始源暖心卡，限量 7 萬張",
+"src": "https://www.beauty321.com/post/73596",
 "mapq": "全家",
-"icon": "sushi",
+"icon": "softserve",
+"hot": true,
+"added": "2026-11-05",
+"checked": "2026-11-05"
+},
+{
+"id": "fm-softserve-29-night",
+"brand": "全家",
+"cat": "冰品",
+"meals": [
+"晚餐",
+"宵夜"
+],
+"title": "霜淇淋晚間單支 29 元",
+"price": 29,
+"how": "每天 17:00–20:59 門市結帳",
+"ends": "2026-12-04",
+"note": "11/11 起",
+"src": "https://www.beauty321.com/post/73596",
+"mapq": "全家",
+"icon": "softserve",
 "people": 1,
-"added": "2026-11-04",
-"checked": "2026-11-04"
+"added": "2026-11-05",
+"checked": "2026-11-05"
+},
+{
+"id": "fm-minimore-2-69",
+"brand": "全家",
+"cat": "甜點",
+"meals": [
+"午餐",
+"晚餐",
+"宵夜"
+],
+"title": "minimore 甜點全品項任兩件 69 折",
+"gift": "任 2 件 69 折",
+"pct": 0.31,
+"people": 1,
+"how": "門市結帳",
+"ends": "2026-11-10",
+"note": "買中杯以上指定 Let's Café 咖啡，甜點全品項半價",
+"src": "https://www.beauty321.com/post/73596",
+"mapq": "全家",
+"icon": "cake",
+"added": "2026-11-05",
+"checked": "2026-11-05"
 }
 ],
 "removed": [
 {
-"brand": "肯德基",
-"title": "咔啦雞腿堡＋原味蛋撻",
-"why": "查不到最新消息"
-},
-{
-"brand": "肯德基",
-"title": "咔啦脆雞分享桶＋原味蛋撻 6 入",
-"why": "查不到最新消息"
-},
-{
-"brand": "麥當勞",
-"title": "歡樂送首購：中薯買一送一",
+"brand": "三商炸雞",
+"title": "炸雞桶買 5 送 5（10 塊）",
 "why": "已過期"
 },
 {
-"brand": "麥當勞",
-"title": "買指定經典超值全餐送 4 塊麥克雞塊",
+"brand": "三商炸雞",
+"title": "刈包＋雞翅＋飲料個人套餐",
 "why": "已過期"
 },
 {
-"brand": "三商鮮五丼",
-"title": "咖哩脆雞丼套餐（含小菜、飲料）",
+"brand": "三商炸雞",
+"title": "青花椒炸雞 6 塊",
 "why": "已過期"
 },
 {
-"brand": "三商鮮五丼",
-"title": "雙人丼飯套餐：炸蝦豬排丼＋招牌牛丼＋滷豆腐＋飲料",
-"why": "已過期"
-},
-{
-"brand": "麥當勞",
-"title": "手機點餐首購滿 150 元送 4 塊麥克雞塊",
-"why": "已過期"
-},
-{
-"brand": "麥當勞",
-"title": "星級遊戲：集幣抽 1+1 星級點 69 元組合券",
-"why": "已過期"
-},
-{
-"brand": "藏壽司",
-"title": "焦香奶油淋醬燒炙鮭魚肚（限時價）",
-"why": "官方已結束"
-},
-{
-"brand": "藏壽司",
-"title": "人氣海老三貫",
-"why": "官方已結束"
-},
-{
-"brand": "7-11",
-"title": "便當、飯糰、麵食即期品 i珍食 65 折",
+"brand": "德克士",
+"title": "5 塊炸雞桶 5 折券 2 張（原味、辣味各一）",
 "why": "查不到最新消息"
 },
 {
 "brand": "全家",
-"title": "便當、飯糰、麵食即期品友善食光 7 折",
-"why": "查不到最新消息"
-},
-{
-"brand": "全家",
-"title": "芋泥生甜甜圈、芋頭水晶蛋糕（minimore × 主廚陳星緯）",
-"why": "話題已退燒"
-},
-{
-"brand": "7-11",
-"title": "華味鳥聯名：極致棉芯蛋 55 元、博多風味炙烤雞腿排丼 119 元",
-"why": "話題已退燒"
-},
-{
-"brand": "達美樂",
-"title": "乾杯燒肉聯名：和牛御豚燒肉大披薩，外帶 5 折起",
-"why": "話題已退燒"
-},
-{
-"brand": "薄多義",
-"title": "夏威夷披薩外帶買一送一",
+"title": "大杯單品美式、單品拿鐵買一送一",
 "why": "已過期"
 },
 {
-"brand": "麥當勞",
-"title": "超值全餐送小薯（APP 優惠券）",
+"brand": "全家",
+"title": "日本稻荷壽司 69 折（壽司日）",
 "why": "已過期"
 }
 ]
