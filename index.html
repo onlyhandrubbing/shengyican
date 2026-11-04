@@ -246,7 +246,7 @@ details[open] .stub .more{visibility:hidden}
     <p>「最划算」看兩件事：比原價便宜多少，以及每人要花多少。沒有原價的優惠只看每人花費。人數會影響計算，例如 3 人份的桶子 4 個人吃，就算買 2 桶。</p>
     <p>價格和期限來自官方公告和優惠整理網站，各門市可能不同，請以現場為準。過期的優惠會自動隱藏。</p>
     <p>本站含有聯盟行銷連結。若你透過這些連結購買或註冊，我們可能會獲得小額佣金，不會影響你的購買價格。</p>
-    <p class="site">SHENGYICAN.PAGES.DEV · 每天早上更新</p>
+    <p class="site">SHENGYICAN.PAGES.DEV · 每週一早上更新</p>
   </footer>
 </main>
 <div class="wm" aria-hidden="true">省一餐</div>
@@ -410,7 +410,7 @@ function reportSheet(d){
     const b = el("button", "sh-opt"); b.type = "button"; b.appendChild(el("b", null, r)); b.appendChild(el("span", null, sub));
     b.onclick = () => sendReport(d, r, b); opts.appendChild(b);
   });
-  openSheet("這個優惠怎麼了？", [head, opts, el("p", "sh-foot", "回報不會直接下架。明天早上更新時會先查證，確認結束才拿掉。")]);
+  openSheet("這個優惠怎麼了？", [head, opts, el("p", "sh-foot", "回報不會直接下架。下次更新（每週一早上）會先查證，確認結束才拿掉。")]);
 }
 async function sendReport(d, reason, btn){
   btn.disabled = true;
@@ -418,7 +418,7 @@ async function sendReport(d, reason, btn){
     const r = await fetch("api/report", { method: "POST", headers: { "Content-Type": "application/json" }, body: JSON.stringify({ id: d.id, reason }) });
     if (!r.ok && r.status !== 429) throw new Error(r.status);
     REPORTED[d.id] = todayStr; store("sy.reported", JSON.stringify(REPORTED));
-    closeSheet(); toast(r.status === 429 ? "今天回報太多次了，明天再試" : "謝謝，明早更新時會確認"); render();
+    closeSheet(); toast(r.status === 429 ? "今天回報太多次了，明天再試" : "謝謝，下次更新時會確認"); render();
   } catch(e){ btn.disabled = false; toast("回報沒送出，稍後再試一次"); }
 }
 function showRemoved(){
