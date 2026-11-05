@@ -397,6 +397,13 @@ function howShort(d){
   return "到店點";
 }
 
+function hit(t, d){
+  try {
+    const body = JSON.stringify({ t, id: d ? d.id : "", b: d ? (d.buyName || "") : "" });
+    if (navigator.sendBeacon) navigator.sendBeacon("api/hit", new Blob([body], { type: "application/json" }));
+    else fetch("api/hit", { method: "POST", headers: { "Content-Type": "application/json" }, body, keepalive: true }).catch(() => {});
+  } catch(e){}
+}
 function openSheet(title, nodes){
   const sh = document.getElementById("sheet"); document.getElementById("sheet-t").textContent = title;
   const b = document.getElementById("sheet-body"); b.textContent = ""; nodes.forEach(n => b.appendChild(n));
@@ -547,9 +554,9 @@ function coupon(d){
   box.appendChild(dl);
   const acts = el("div", "acts");
   const map = el("a", "btn main"); map.href = mapUrl(d.mapq || d.brand); map.target = "_blank"; map.rel = "noopener";
-  map.innerHTML = ICON.pin; map.appendChild(document.createTextNode(region ? region + "的門市" : "附近門市")); acts.appendChild(map);
-  if (d.buy){ const a = el("a", "btn buy"); a.href = d.buy; a.target = "_blank"; a.rel = "noopener sponsored"; a.innerHTML = ICON.bag; a.appendChild(document.createTextNode((d.buyName || "線上") + (d.buyName === "Uber Eats" ? " 下單" : d.buyName === "肯德基" ? " 線上點" : " 購買"))); acts.appendChild(a); }
-  if (d.code){ const c = el("button", "btn"); c.type = "button"; c.innerHTML = ICON.copy; c.appendChild(document.createTextNode("複製代碼")); c.onclick = () => copy(d.code); acts.appendChild(c); }
+  map.innerHTML = ICON.pin; map.appendChild(document.createTextNode(region ? region + "的門市" : "附近門市")); map.addEventListener("click", () => hit("map", d)); acts.appendChild(map);
+  if (d.buy){ const a = el("a", "btn buy"); a.href = d.buy; a.target = "_blank"; a.rel = "noopener sponsored"; a.innerHTML = ICON.bag; a.appendChild(document.createTextNode((d.buyName || "線上") + (d.buyName === "Uber Eats" ? " 下單" : d.buyName === "肯德基" ? " 線上點" : " 購買"))); a.addEventListener("click", () => hit("buy", d)); acts.appendChild(a); }
+  if (d.code){ const c = el("button", "btn"); c.type = "button"; c.innerHTML = ICON.copy; c.appendChild(document.createTextNode("複製代碼")); c.onclick = () => { copy(d.code); hit("copy", d); }; acts.appendChild(c); }
   if (d.src && d.src !== d.buy){ const s = el("a", "btn src", "資料來源"); s.href = d.src; s.target = "_blank"; s.rel = "noopener"; acts.appendChild(s); }
   if (!isReported(d)){ const r = el("button", "btn src rep", "這個優惠沒了？回報"); r.type = "button"; r.onclick = () => reportSheet(d); acts.appendChild(r); }
   box.appendChild(acts);
@@ -620,6 +627,7 @@ render();
     list.appendChild(li);
   }
 })();
+try { if (!sessionStorage.getItem("sy.v")){ sessionStorage.setItem("sy.v", "1"); hit("view"); } } catch(e){ }
 if ("serviceWorker" in navigator) addEventListener("load", () => navigator.serviceWorker.register("sw.js").catch(() => {}));
 </script>
 
